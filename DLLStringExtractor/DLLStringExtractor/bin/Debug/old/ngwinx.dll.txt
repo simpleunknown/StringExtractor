@@ -1,0 +1,1625 @@
+!This program cannot be run in DOS mode.
+-Rich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+t$Wh
+@@BBG;
+~n;F
+f;L$
+GGAAHu
+GGCCHu
+PPPPPPP
+QPPP
+_^[]
+QSVW
+A<VW
+F<RQj
+9M u
+\SVW
+j<_W
+EdVW
+Md_3
+~d_^
+YtQV
+YYu?!E
+YYu%
+w"tC=+ 
+v5=9 
+t.=N 
+SVWh
+PVVV
+s,W3
+$9>u
+w	HP
+SVW3
+}ZHHt
+t"f;E
+WWWh
+FuFj
+Wu	9E
+Wu	9E
+5VW3
+q(9>u
+Whl_
+8%utP
+8%tij%P
+t\9>t
+RSSSj
+Wh,v
+E(VP
+E(VP
+E(VP
+u9PPPPPPP
+QPPP
+E(PS
+E(VP
+E(VP
+E(VP
+E(PS
+VVVVVVV
+PVVV
+E(PS
+QQVW
+P$^]
+(SVW3
+6WQWj
+|F9s
+t=!]
+F<98t
+F<98t
+?w-j
+@_^[
+RPPh
+t>f;>t9
+t@9u
+SVWP
+FFGGf
+Y_^[
+uC9]
+SSVSSW
+?{uFW
+tl9E
+?{u5W
+Y_^[
+QQS3
+YYtZf
+Y_^[
+7SQSj
+SVW3
+[_^]
+E QR
+[_^]
+t{9s
+P(_^[
+P,^]
+pSVW
+tp9u
+tkf9s@
+f9s@
+9s<t
+sBj%V
+9s0t
+Y_^[
+t&9E
+t%9E
+Y,V3
+Y,V3
+FFJu
+t#9D$
+AACCN
+9_^[
+@@Nu
+t$9E
+FFJu
+t#9D$
+AACCN
+9_^[
+t	QR
+tFf93tA
+@@f;
+t.h`
+_^u	
+t	9^
+Pj	Sj
+tLSPj	Sj
+PTPh
+YYuIh$
+uZWh
+YYWh
+YYu,h$
+SUVW
+SVWj	
+tih|
+Qh|W
+YYt%WVS
+PS@PVj
+WVSP
+jD^V
+YYVW
+PSSh
+Y_^[
+v3Ph
+SUVW
+D$ d
+9|$0
+t$0VW
+t$0VS
+QPj	Qj
+t$$j
+t$$j
+t$0VW
+t$0VS
+t$$j
+t$$j
+D$0;
+\$(t	
+Pj	Sj
+tRSPj	Sj
+PTPVW
+L$ d
+Y_^][
+SVWP
+u 9^
+jD_W
+SWWh
+PSSh
+SWWh
+QPhH
+Pj	Sj
+tLSPj	Sj
+PTPh
+Su<Sj
+PSShn
+!SSj
+Y_^[
+taPh
+tFSPj	Sj
+Ph0 
+u59]
+t)Ph8
+SSh,
+Phh"
+u'h@
+FFJu
+t#9D$
+AACCN
+9_^[
+YYVW
+SVh0#
+jWY;
+uH!E
+QSV3
+YYu-h
+Wh8$
+PWh $
+PWh $
+YYuV
+Wh8$
+Wh $
+_^[t
+Sh8$
+_^t	
+QSVW3
+f90u-W
+FFJu
+t#9D$
+AACCN
+9_^[
+YYuIh
+Phh"
+FFJu
+t#9D$
+AACCN
+9_^[
+_^[]
+SVW3
+w8t/
+t"Ht
+HtKHHu`h
+LhX'
+7hp&
+u h<&
+jW^t^
+jW^tV
+Yt8W
+jW^tV
+Yt8W
+jW^tX
+Yt:W
+u%Vj
+;E v
+SVW3
+PWWW
+jWX_^[
+SVW3
+PWWW
+jWX_^[
+WjW[
+VVVV
+VVVV
+u:WSS
+jWX_^[
+FFJu
+t#9D$
+AACCN
+9_^[
+FnSP
+uy!}
+v-Wj@
+_^[]
+Ph0*
+QPhd*
+P8PjPW
+VjPW
+FFJu
+t#9D$
+AACCN
+9_^[
+Wt5f93t0
+t(9t$
+t"WVVj
+VSWVW
+jWX_^[
+t,9t$
+t&WVVj
+jWX_^
+<F\t
+VWPQh
+YYu h
+u h +
+u h(+
+FFJu
+9_^[
+t#9D$
+AACCN
+9_^[
+Wj	Y3
+2[t+
+VWWW
+PWWW
+]tVW3
+E| tUj	Y3
+uxt&
+YYtC
+BuVh
+u*h|,
+Au*ht,
+Mh_^3
+SVW3
+PSSSSSSSSj
+t=UWS
+QQVW3
+PVVj
+jDXPS
+QPSj
+PSSj
+SPSSh
+Phx2
+PhT2
+E|SV
+t];E
+Mp^3
+uA8F
+_@[^
+PVWj
+QPWj
+t_Vh
+QPPPPPPh 
+QPPPPPPh#
+QPPPPPPPP
+t(Ht
+QQVW
+PVh?
+u+SS
+trVW
+PSSj
+trVW
+PSSj
+FFJu
+t#9D$
+AACCN
+9_^[
+jW^WW
+f97t
+f97u
+f9;u
+f9>t
+uBSh
+N Qh
+N$Qh
+N`Qh|7
+NxQhX7
+Qh47
+Phh6
+Qh$6
+Whd3
+QhT5
+Y_^[
+Ph89
+PhT5
+P(PS
+YYt,
+PTPh
+RXPh
+Pht9
+Phd9
+PTPh
+Pht9
+Ph$6
+Pht9
+W0Ph 8
+Ph$6
+W Ph
+W(Ph`8
+Sh,:
+W@Ph
+Qh|7
+QhX7
+|>SVW
+SVWh
+P(Ph
+Ph,;
+v4h(;
+Ph,;
+PTPh
+EhPh
+Qht9
+Qhd9
+Y_^[
+PTPh
+EDPh
+Qht9
+M,Qh
+Qh$6
+ShT:
+Sh 8
+Sh`8
+Wh,:
+M<Qh
+Y_^[
+Pp=p
+Ph89
+f98u'
+Ph$6
+Ph|7
+PhX7
+Pp=p
+^[_]
+>F;3sQ
+>F;3sD
+>F;3s<3
+It(It
+>F;3s
+>F;3r
+_^[]
+P89}
+t#9}
+P89|$
+QSUV
+uF9X
+SSSS
+t$,P
+PlPSS
+^][Y
+t$$US
+QQS3
+uV9^
+QSVW3
+QQSV
+uH9X
+SSSj
+t$$US
+u\9X
+P8_3
+QQSV
+jWX_^[
+u(9D$
+jWX^
+t0j~
+SVWh@
+PSSh
+tRSj
+FFJu
+t#9D$
+AACCN
+9_^[
+P89}
+FPW3
+P8_3
+FPSP
+vPQP
+9~PudWW
+FPt-
+FP_^
+jW^;
+uL!E
+GL_^[
+t"9~Lu
+f90t
+f90t
+QPWS
+0PQR
+t$h0=
+P(PW
+Qh(;
+v SS
+P(PW
+Qh(;
+@PWh
+@Pj"
+9YPu
+Sh8$
+Sh8$
+GPSVh
+FFJu
+t#9D$
+AACCN
+9_^[
+Wt\9\$
+tE9^
+u@UW
+SSSSj
+GGFF
+_^]3
+t,f98t'V
+tNf9{
+f97td9
+Qjc3
+RXPj
+t@jX
+f98u
+jW[9}
+u6jX
+0@@f;
+P8hl@
+P8hL@
+P4PS
+t$ U
+PWVU
+_^][
+uqPj
+Qhl@
+Rhl@
+PhL@
+Ph0@
+FFJu
+t#9D$
+AACCN
+9_^[
+CC@@
+P$9E
+t(;^
+s'S;
+f9:t
+tTS3
+t	AAGf
+@@Ff
+t	QP
+HtjHt
+<j.S
+FFJu
+t#9D$
+AACCN
+9_^[
+t%f99t 
+@@f;
+SWWPW
+t%f99t 
+@@f;
+SWWPhhA
+_Pj@
+_^][
+QQS3
+t"9APw
+Ojz[
+A !]
+GP@j
+Yt2Sj
+Y][_
+QQVW
+tif90tdS
+u+9D$
+wv)E
+FLX;
+VPs(Pj@
+vPSP
+jW[_^
+f9;u
+Wu89^
+t-jH_W
+P|;E
+VhpH
+SRWP
+SVW3
+@@f;
+tu;]
+XCf;
+tB9U
+|79U
+CFF;]
+@@f;
+GGf;
+@@f;
+GGf;
+tJf9
+@@f;
+GGf;
+YYu+
+SUVW
+SVWj
+SUVW
+SVWj
+SUVW
+UVWh
+t[9-D
+t)UWV
+_^][
+u_j@
+9~$~!S
+G;~$|
+QQSV
+G;~4|
+@_^[
+QQSV
+t$Wh
+8csm
+8csm
+Y__^[
+Y__^[
+	SVW
+^t	j
+@_^[]
+u WPS
+uCWVS
+t%WVS
+9MZt
+Y_^[
+Y_^[
+k -L
+2B2D
+RNdI
+k -L
+IEIsProtectedModeProcess
+IEGetWriteableFolderPath
+Wow64RevertWow64FsRedirection
+Wow64DisableWow64FsRedirection
+GetNativeSystemInfo
+NTFS
+AdjustTokenPrivileges failed: %u
+LookupPrivilegeValue error: %u
+%08x %s
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/Dont bother
+10.72.497
+CredUIParseUserNameW
+CredUIPromptForCredentialsW
+CryptUIDlgViewCertificateW
+CryptUIDlgViewContext
+c\"B
+]$C9"D
+#d)m
+D5,)
+j><K
+Q2ST
+1"EYg-
+QeHM
+1\Q4
+RX0e
+Module32NextW
+Module32FirstW
+Process32NextW
+Process32FirstW
+CreateToolhelp32Snapshot
+GetModuleFileNameExW
+EnumProcessModules
+EnumProcesses
+/4*&{
+b@J7<
+{FL!m
+z)zR88
+jc(=
+e.{ 
+P($I
+tXT9bq^F
+Lb`w
+YFDAt
+4mc-N
+S[bH
+]/qNnN
+YcwN
+kjO}
+O}N8
+J9*`+
+hxUr
+1 J#
+y#uL
+p#_y
+THxV
+Tn9{
+9mG-
+(O\i
+I}!<
+GFVX
+=$?x
+A8L"k1
+</hXt
+$<;{d
+	CPf
+	/2q
+VDEST
+[<Sp
+~iGt
+-np1A
+i(Lc
+fX]r
+'+?2LF
+k7E8
+=sRQj
+=sRRj
+=sRSj
+=sRTj
+=sRUj
+=sRVj
+=sRWj
+=sRXj
+DEST
+!i3%
+<wt2
+5Y!2
+)InterlockedPopEntrySList
+InterlockedPushEntrySList
+kernel32.dll
+=L9o<
+RSDS
+G:\autobuilder\builds\ex-jay-10.7.2-msclient\jay\10.7.2\src\avt\ng\client\ngwinx\release\ngwinx.pdb
+lstrlenW
+RaiseException
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSection
+DeleteCriticalSection
+GetLastError
+lstrcmpiW
+FlushInstructionCache
+GetCurrentProcess
+MulDiv
+GlobalUnlock
+GlobalLock
+GlobalAlloc
+GetModuleFileNameW
+DisableThreadLibraryCalls
+InterlockedIncrement
+InterlockedDecrement
+GetCurrentThreadId
+SetLastError
+FreeLibrary
+MultiByteToWideChar
+SizeofResource
+LoadResource
+FindResourceW
+LoadLibraryExW
+GetModuleHandleW
+LoadLibraryW
+WideCharToMultiByte
+GetFileAttributesW
+GetProcAddress
+CloseHandle
+Process32NextW
+Process32FirstW
+CreateToolhelp32Snapshot
+WaitForMultipleObjectsEx
+CreateEventW
+OutputDebugStringW
+GetSystemTime
+OpenEventW
+CopyFileW
+CreateFileW
+GetFileAttributesExW
+WriteFile
+DeleteFileW
+CreateDirectoryW
+WaitForSingleObject
+CreateProcessW
+CreateThread
+DisconnectNamedPipe
+FlushFileBuffers
+ReadFile
+ConnectNamedPipe
+CreateNamedPipeW
+TerminateProcess
+OpenProcess
+Sleep
+GetDateFormatW
+FindClose
+FindFirstFileW
+HeapFree
+GetProcessHeap
+HeapAlloc
+GlobalFree
+RemoveDirectoryW
+FindNextFileW
+GetVersionExW
+VerifyVersionInfoW
+VerSetConditionMask
+GetVolumeInformationA
+GetWindowsDirectoryA
+GetSystemInfo
+LocalFree
+LocalAlloc
+GetWindowsDirectoryW
+CreateMutexW
+CreateSemaphoreW
+GetPrivateProfileStringW
+GetPrivateProfileSectionNamesW
+WritePrivateProfileStringW
+FileTimeToSystemTime
+CompareStringW
+FormatMessageW
+KERNEL32.dll
+CharNextW
+SetWindowLongW
+GetWindowLongW
+ShowWindow
+GetClassInfoExW
+LoadCursorW
+ReleaseDC
+GetDC
+SetWindowPos
+SetWindowRgn
+OffsetRect
+EqualRect
+IntersectRect
+EndPaint
+GetClientRect
+BeginPaint
+CallWindowProcW
+PtInRect
+UnionRect
+DefWindowProcW
+SetFocus
+IsChild
+GetFocus
+GetParent
+DestroyWindow
+IsWindow
+InvalidateRect
+GetKeyState
+RegisterClassExW
+CreateWindowExW
+FindWindowW
+PostMessageW
+CharLowerBuffW
+CharUpperBuffW
+CharLowerW
+CharUpperW
+USER32.dll
+GetDeviceCaps
+CreateRectRgnIndirect
+DeleteMetaFile
+CloseMetaFile
+RestoreDC
+SetWindowExtEx
+SetWindowOrgEx
+SaveDC
+CreateMetaFileW
+CreateDCW
+DeleteDC
+SetViewportOrgEx
+SetMapMode
+LPtoDP
+GDI32.dll
+RegDeleteKeyW
+RegDeleteValueW
+RegCloseKey
+RegCreateKeyExW
+RegOpenKeyExW
+RegSetValueExW
+RegQueryInfoKeyW
+RegEnumKeyExW
+RegQueryValueExW
+RegEnumValueW
+SetSecurityDescriptorDacl
+InitializeSecurityDescriptor
+SetEntriesInAclW
+AllocateAndInitializeSid
+CopySid
+FreeSid
+GetLengthSid
+SetSecurityInfo
+GetSecurityInfo
+AddAccessAllowedAce
+InitializeAcl
+CreateWellKnownSid
+GetAce
+EqualSid
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+LookupPrivilegeNameW
+GetTokenInformation
+GetSidSubAuthority
+GetSidSubAuthorityCount
+GetSidIdentifierAuthority
+IsValidSid
+LookupAccountNameW
+OpenProcessToken
+AdjustTokenGroups
+DuplicateTokenEx
+CryptReleaseContext
+CryptDestroyHash
+CryptGetHashParam
+CryptHashData
+CryptCreateHash
+CryptAcquireContextW
+ADVAPI32.dll
+SHGetFolderPathW
+SHGetSpecialFolderPathW
+SHELL32.dll
+CoTaskMemAlloc
+CoTaskMemRealloc
+CoTaskMemFree
+OleLoadFromStream
+CreateOleAdviseHolder
+OleRegEnumVerbs
+OleRegGetUserType
+OleRegGetMiscStatus
+CreateDataAdviseHolder
+WriteClassStm
+OleSaveToStream
+CoCreateInstance
+StringFromGUID2
+ole32.dll
+OLEAUT32.dll
+RasGetConnectionStatistics
+RasClearConnectionStatistics
+RasDeleteEntryW
+RasDialW
+RasSetCustomAuthDataW
+RasGetConnectStatusW
+RasHangUpW
+RasEnumConnectionsW
+RasEnumDevicesW
+RasGetEntryPropertiesW
+RasEditPhonebookEntryW
+RasSetEntryPropertiesW
+RASAPI32.dll
+StrStrW
+SHDeleteKeyW
+SHLWAPI.dll
+CertCreateCertificateContext
+CertDuplicateCertificateContext
+CertFreeCertificateContext
+CertGetNameStringW
+CertNameToStrW
+CertGetCertificateContextProperty
+CryptUnprotectData
+CryptProtectData
+CRYPT32.dll
+GetUserNameExW
+Secur32.dll
+VerQueryValueW
+GetFileVersionInfoW
+GetFileVersionInfoSizeW
+VERSION.dll
+GetModuleBaseNameW
+EnumProcessModules
+EnumProcesses
+PSAPI.DLL
+ngevent32.dll
+??3@YAXPAX@Z
+??_V@YAXPAX@Z
+malloc
+free
+memcpy_s
+_CxxThrowException
+wcscpy_s
+wcsncpy_s
+wcscat_s
+__CxxFrameHandler3
+_recalloc
+calloc
+memset
+swprintf_s
+_resetstkoflw
+??_U@YAPAXI@Z
+??2@YAPAXI@Z
+_purecall
+strstr
+_vsnwprintf
+wcsncpy
+fclose
+fwprintf
+_wfopen
+wcstombs
+_wcsicmp
+_wmakepath
+_stricmp
+_splitpath
+printf
+_swprintf
+_wtoi
+strncpy
+wcsstr
+wcschr
+iswspace
+atol
+memcpy
+_wtol
+_wsplitpath
+memmove_s
+MSVCR80.dll
+?terminate@@YAXXZ
+_except_handler4_common
+_unlock
+__dllonexit
+_encode_pointer
+_lock
+_onexit
+_decode_pointer
+_malloc_crt
+_encoded_null
+_initterm
+_initterm_e
+_amsg_exit
+_adjust_fdiv
+__CppXcptFilter
+?_type_info_dtor_internal_method@type_info@@QAEXXZ
+_crt_debugger_hook
+__clean_type_info_names_internal
+InterlockedExchange
+GetACP
+GetLocaleInfoA
+GetThreadLocale
+GetVersionExA
+InterlockedCompareExchange
+LoadLibraryA
+IsProcessorFeaturePresent
+VirtualFree
+VirtualAlloc
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+UnregisterClassA
+ngwinx.DLL
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+.?AUThank_you@Define_the_symbol__ATL_MIXED@@
+.?AVCAtlException@ATL@@
+.?AV?$CComObject@VCRasCtl@@@ATL@@
+.?AVCRasCtl@@
+.?AV?$CComObjectRootEx@VCComSingleThreadModel@ATL@@@ATL@@
+.?AVCComObjectRootBase@ATL@@
+.?AV?$IDispatchImpl@UIRasCtl@@$1?IID_IRasCtl@@3U_GUID@@B$1?LIBID_NGWINXLib@@3U3@B$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@
+.?AUIRasCtl@@
+.?AUIDispatch@@
+.?AUIUnknown@@
+.?AV?$CComControl@VCRasCtl@@V?$CWindowImpl@VCRasCtl@@VCWindow@ATL@@V?$CWinTraits@$0FGAAAAAA@$0A@@3@@ATL@@@ATL@@
+.?AVCComControlBase@ATL@@
+.?AV?$CWindowImpl@VCRasCtl@@VCWindow@ATL@@V?$CWinTraits@$0FGAAAAAA@$0A@@3@@ATL@@
+.?AV?$CWindowImplBaseT@VCWindow@ATL@@V?$CWinTraits@$0FGAAAAAA@$0A@@2@@ATL@@
+.?AV?$CWindowImplRoot@VCWindow@ATL@@@ATL@@
+.?AVCWindow@ATL@@
+.?AVCMessageMap@ATL@@
+.?AV?$IPersistStreamInitImpl@VCRasCtl@@@ATL@@
+.?AUIPersistStreamInit@@
+.?AUIPersist@@
+.?AV?$IOleControlImpl@VCRasCtl@@@ATL@@
+.?AUIOleControl@@
+.?AV?$IOleObjectImpl@VCRasCtl@@@ATL@@
+.?AUIOleObject@@
+.?AV?$IOleInPlaceActiveObjectImpl@VCRasCtl@@@ATL@@
+.?AUIOleInPlaceActiveObject@@
+.?AUIOleWindow@@
+.?AV?$IViewObjectExImpl@VCRasCtl@@@ATL@@
+.?AUIViewObjectEx@@
+.?AUIViewObject2@@
+.?AUIViewObject@@
+.?AV?$IOleInPlaceObjectWindowlessImpl@VCRasCtl@@@ATL@@
+.?AUIOleInPlaceObjectWindowless@@
+.?AUIOleInPlaceObject@@
+.?AUISupportErrorInfo@@
+.?AV?$IConnectionPointContainerImpl@VCRasCtl@@@ATL@@
+.?AUIConnectionPointContainer@@
+.?AV?$IPersistStorageImpl@VCRasCtl@@@ATL@@
+.?AUIPersistStorage@@
+.?AV?$ISpecifyPropertyPagesImpl@VCRasCtl@@@ATL@@
+.?AUISpecifyPropertyPages@@
+.?AV?$IQuickActivateImpl@VCRasCtl@@@ATL@@
+.?AUIQuickActivate@@
+.?AV?$IDataObjectImpl@VCRasCtl@@@ATL@@
+.?AUIDataObject@@
+.?AV?$IProvideClassInfo2Impl@$1?CLSID_RasCtl@@3U_GUID@@B$1?DIID__IRasCtlEvents@@3U2@B$1?LIBID_NGWINXLib@@3U2@B$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@
+.?AUIProvideClassInfo2@@
+.?AUIProvideClassInfo@@
+.?AV?$IPropertyNotifySinkCP@VCRasCtl@@VCComDynamicUnkArray@ATL@@@ATL@@
+.?AV?$IConnectionPointImpl@VCRasCtl@@$1?IID_IPropertyNotifySink@@3U_GUID@@BVCComDynamicUnkArray@ATL@@@ATL@@
+.?AV?$_ICPLocator@$1?IID_IPropertyNotifySink@@3U_GUID@@B@ATL@@
+.?AV?$CComCoClass@VCRasCtl@@$1?CLSID_RasCtl@@3U_GUID@@B@ATL@@
+.?AV?$IPersistPropertyBagImpl@VCRasCtl@@@ATL@@
+.?AUIPersistPropertyBag@@
+.?AV?$IObjectSafetyImpl@VCRasCtl@@$02@ATL@@
+.?AUIObjectSafety@@
+.?AV?$CProxy_IRasCtlEvents@VCRasCtl@@@@
+.?AV?$IConnectionPointImpl@VCRasCtl@@$1?DIID__IRasCtlEvents@@3U_GUID@@BVCComDynamicUnkArray@ATL@@@ATL@@
+.?AV?$_ICPLocator@$1?DIID__IRasCtlEvents@@3U_GUID@@B@ATL@@
+.?AV?$CComContainedObject@VCRasCtl@@@ATL@@
+.?AV?$CComAggObject@VCRasCtl@@@ATL@@
+.?AVCComModule@ATL@@
+.?AV?$CAtlModuleT@VCComModule@ATL@@@ATL@@
+.?AVCAtlModule@ATL@@
+.?AU_ATL_MODULE70@ATL@@
+.?AVCRegObject@ATL@@
+.?AUIRegistrarBase@@
+.?AVCComClassFactory@ATL@@
+.?AUIClassFactory@@
+.?AV?$CComObjectRootEx@VCComMultiThreadModel@ATL@@@ATL@@
+.?AV?$CComObject@V?$CComEnum@UIEnumConnectionPoints@@$1?_GUID_b196b285_bab4_101a_b69c_00aa00341d07@@3U__s_GUID@@BPAUIConnectionPoint@@V?$_CopyInterface@UIConnectionPoint@@@ATL@@VCComSingleThreadModel@6@@ATL@@@ATL@@
+.?AV?$CComEnum@UIEnumConnectionPoints@@$1?_GUID_b196b285_bab4_101a_b69c_00aa00341d07@@3U__s_GUID@@BPAUIConnectionPoint@@V?$_CopyInterface@UIConnectionPoint@@@ATL@@VCComSingleThreadModel@6@@ATL@@
+.?AV?$CComEnumImpl@UIEnumConnectionPoints@@$1?_GUID_b196b285_bab4_101a_b69c_00aa00341d07@@3U__s_GUID@@BPAUIConnectionPoint@@V?$_CopyInterface@UIConnectionPoint@@@ATL@@@ATL@@
+.?AUIEnumConnectionPoints@@
+.?AV?$CComObjectCached@VCComClassFactory@ATL@@@ATL@@
+.?AV?$CComObject@V?$CComEnum@UIEnumConnections@@$1?_GUID_b196b287_bab4_101a_b69c_00aa00341d07@@3U__s_GUID@@BUtagCONNECTDATA@@V?$_Copy@UtagCONNECTDATA@@@ATL@@VCComSingleThreadModel@6@@ATL@@@ATL@@
+.?AV?$CComEnum@UIEnumConnections@@$1?_GUID_b196b287_bab4_101a_b69c_00aa00341d07@@3U__s_GUID@@BUtagCONNECTDATA@@V?$_Copy@UtagCONNECTDATA@@@ATL@@VCComSingleThreadModel@6@@ATL@@
+.?AV?$CComEnumImpl@UIEnumConnections@@$1?_GUID_b196b287_bab4_101a_b69c_00aa00341d07@@3U__s_GUID@@BUtagCONNECTDATA@@V?$_Copy@UtagCONNECTDATA@@@ATL@@@ATL@@
+.?AUIEnumConnections@@
+.?AVRasCaller@@
+.?AVCModuleVersion@@
+.?AVVPNSettings@@
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+.?AVAVCertificateInfo@@
+.?AVAVCertificate@@
+.?AVAVRasEntry@@
+.?AVAVString@@
+.?AVAVVersion@@
+.?AVVPNRuntime@@
+.?AVAVStringMZ@@
+.?AVAVCredential@@
+.?AVWinCredUI@@
+.?AVWinCryptUI@@
+.?AVCCryptoRC4@@
+.?AVFallbackList@@
+.?AVConnectionList@@
+.?AVtype_info@@
+HKCR
+	Aventail.NgWinActiveX.1 = s 'RasCtl Class'
+		CLSID = s '{14DFA1B9-4E52-4964-A34B-49D09288DB6D}'
+	Aventail.NgWinActiveX = s 'RasCtl Class'
+		CLSID = s '{14DFA1B9-4E52-4964-A34B-49D09288DB6D}'
+		CurVer = s 'Aventail.NgWinActiveX.1'
+	NoRemove CLSID
+		ForceRemove {14DFA1B9-4E52-4964-A34B-49D09288DB6D} = s 'RasCtl Class'
+			ProgID = s 'Aventail.NgWinActiveX.1'
+			VersionIndependentProgID = s 'Aventail.NgWinActiveX'
+			ForceRemove 'Programmable'
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			ForceRemove 'Control'
+			ForceRemove 'Insertable'
+			ForceRemove 'ToolboxBitmap32' = s '%MODULE%, 101'
+			'MiscStatus' = s '0'
+			{
+			    '1' = s '131473'
+			}
+			'TypeLib' = s '{1D1EFDEC-4232-4432-8216-D0BFE6231609}'
+			'Version' = s '1.0'
+PADMSFT
+2B2D
+RNdI
+k -L
+stdole2.tlbWWW
+NGWINXLibWWW
+_IRasCtlEventsWW
+UpdateWebpageWWWd
+RasCtlWW
+IRasCtlW
+|Activate
+DeactivateWW
+2IsJavaActivation
+`ConnectionNameWW
+pVal
+[InputIdleTimeout
+AuthCredentialWW
+lEndpointAddressW
+QClientVersionWWW
+ConnectionErrorStringWWW
+%IpAddressWWW
+SubnetMaskWW
+9tRedirectionModeW
+BytesTransferred
+SessionLengthWWW
+Password
+UserName
+RefreshStatisticsWWW
+ConnectionStatus
+RealmNameWWW
+DConfigurationStringW
+BETEnabledWW
+ngwinx 1.0 Type LibraryWWW
+_IRasCtlEvents InterfaceWW
+method UpdateWebpageWW
+RasCtl ClassWW
+IRasCtl InterfaceW
+method ActivateWWW
+method DeactivateW
+method IsJavaActivationWWW
+property ConnectionNameWWW
+property InputIdleTimeoutW
+property AuthCredentialWWW
+property EndpointAddressWW
+property ClientVersion
+property ConnectionErrorString
+property IpAddress
+property SubnetMaskWWW
+property RedirectionModeWW
+property BytesTransferredW
+property SessionLength
+property PasswordW
+property UserNameW
+method RefreshStatisticsWW
+property ConnectionStatusW
+property RealmName
+property ConfigurationStringWW
+property BETEnabledWWW
+Created by MIDL version 7.00.0500 at Sun Sep 13 13:32:50 2015
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC80.CRT" version="8.0.50727.762" processorArchitecture="X86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
+0+0Q0&1V1^1d1j1t1
+1=2Y2y2
+263]3
+3]4l4
+4 5B5Z5
+7 7,767L7
+8;9G9T9
+<(=J=l=
+> >*>4>>>H>N>
+102:2L2P2T2X2\2`2h3o3?4
+:\:v:|:
+122H2k2
+5m6t6{6
+<$<.<8<B<L<V<`<j<t<~<
+0N1{1
+4&4b4v4
+4T5i5
+:!:e:G;
+<C=g=
+0!0;0A0F0R0X0g0
+2n3t3
+8J8Z8k8
+8$9I9[9
+;0<7<P<e<
+=+=/=3=7=;=?=\=
+=K>`>
+?'?/?5?d?p?u?
+I0s0
+3H3v3
+3-434<4L4X4n4
+4	5H5f5&696
+7L7x7
+:G;p;
+=1=e=}=Y>x>
+_0v0
+0T1n1
+4f5*6B6
+0+0v0
+1#2(2;2
+6?8I8Y8
+9>9D9Z9k9
+:9;Y;;<b<
+=)=5=m=
+=.>x>
+2D2J2
+3	4$4/474?4M4e4r4
+4,5_5t5
+5K7`7m7
+8U9=:a;p;z;
+<<=E>w>
+>1?n?
+2f3k3
+4Q4`4
+4_5y5
+6 6o6z6
+8T8t8
+9e9k9
+:::V:t:
+>U>h>n>
+>8?W?t?
+0;0A0P0W0]0
+0[1x1
+1 2@2_2~2
+4_4r5|5
+6Q7y7
+8!8*8B8H8Q8
+;'<S<Y<d<k<
+=Q=v=|=
+0G0k0
+1V1h1o1v1|1
+2'2X2r2}2
+273Q3Y3
+3#4)444;4H4k4}4
+4*5L5Q5_5y5
+6%6f6r6y6
+7(767_7q7
+9(9s9}9
+9%:,:L:n:
+;2;>;U;a;m;B<N<i<
+=4=C=
+1,121
+2C2I2W2]2
+4,454>4i4
+7\7n7
+8,8;8A8R8\8b8j8p8
+:>:C:K:Q:\:a:6;
+==>D>~>
+>(?:?E?P?z?
+0*090U0^0f0w0
+2.2w2
+6(6@6X6_6s6z6
+7 7*7;7B7K7Z7
+7Q8l8
+8:9A9H9O9V9z9
+;G<x<
+6%7F7X7x7
+7E8c8z8V9
+:,:6:?:V:
+:#;O;\;t;~;
+<!<S<p<
+=$=1=v=
+>E>x>
+>	?7?z?
+0+060
+1	2@2\2
+3P3l3
+4$5@5
+5*6J6
+7%7,7
+8 8X8h8o8
+:/:L:S:a:h:v:
+;';C;V;`;s;};
+<,<2<=<X<
+=!=?=
+>0>Z>
+?!?.???]?e?
+0.070}0
+1!1=1H1h1
+2/2v2
+3,3O3e3
+4*4B4R4x4
+5-585U5g5n5
+637g7
+8R8\8s8
+9#9,989E9O9
+:V:y:
+;M;r;
+;5<J<n<|<
+=J=l=
+>)>1>}>
+?&?4?
+0X0_0k0
+2-262>2
+;P<W<a<
+=!=>=d=|=
+>2>B>Y>q>
+?9?L?U?y?
+#0?0w0
+1S2h2
+414k4
+747M7f7
+7G8U8t8
+9,9N9o9
+<&=e=l=
+3c3t3
+474K4]4t4
+8+8^8
+9*9G9d9
+:/:F:]:}:
+<1<K<\<|<
+=*=6=?=F=w=
+434D4\4d7
+8<8F8V8
+9 9F9n9
+;&=E=\=
+=P>A?
+6 7%717
+7=8I8W8c8t8
+8(9c9-:4:
+;;;e;
+<;<y<
+=8?Q?
+112e2t2
+263j4L5
+<8<~<
+='=K=s=
+=/>H>
+?T?z?
+E0m0
+3+3l3
+3	4G4a4
+5)5\5g5
+<;<|<
+l0w0
+7 7/7M7V7
+788>8M8k8t8
+8N9^9O:f:
+;M;T<
+=@=j=
+?9?i?
+1b1l1
+1U2d2D4
+5G6M6Z6_6g6u6
+72787D7J7b7
+8$8Q8
+=,=<=f=
+>M>\>s>
+0 080\0
+0>1F1
+2#2h2
+343q3
+4$5*50565<5B5H5N5T5Z5`5f5l5r5x5~5
+6 6&6,62686>6D6J6P6V6\6b6h6n6t6z6
+7"7(7.747:7@7F7L7R7X7^7d7j7p7v7|7
+8$8*80868<8B8H8N8T8Z8`8f8l8r8x8~8
+9 9&9,92989>9D9J9P9V9\9b9h9n9t9z9
+:":(:.:4:::@:F:L:R:X:^:d:j:p:v:|:
+;#;?;T;[;a;g;m;
+<'<4<E<L<T<^<h<r<x<
+<*=<=K=R=_=t=
+0Y0*181O1a1
+202H2P2f2
+4*4n4
+4)5~5
+7'7^7d7j7p7v7|7
+8&8A8I8R8]8r8{8
+9,929E9J9W9f9{9
+:$:<:
+;0;6;<;J;P;V;\;b;h;o;v;};
+<!<7<><F<L<R<X<^<c<q<v<
+<V=[=m=
+> >+>N>[>g>o>w>
+? ?&?,?2?P?s?
+0-0S0v0
+121U1
+232V2
+2*3M3
+404S4
+5/5J5e5
+6)6O6u6
+657h7
+728e8
+9$:G:
+:#;^;
+?Q?|?
+M0p0
+1;1^1
+262Y2|2
+3$4/4;4A4E4K4`4f4p4|4
+$5(5,50545@5t8x8|8
+889@9H9P9X9`9h9p9x9
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>
+?(?4?@?L?X?d?p?|?
+D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,50585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6 7$7(7,707D7H7L7P7T7X7\7`7d7h7l7
+7(8,8084888<8
+9 9$9(9P9T9X9\9`9d9h9l9p9
+9H<L<P<T<X<\<`<d<h<
+`6d6
+8 8$8(8,80848
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1
+1D2H2L2P2
+:l:p:
+;$;<;L;P;`;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+>$>4>8><>D>\>`>x>
+? ?$?,?D?T?X?\?d?|?
+040D0H0P0h0x0|0
+1 1$1,1D1T1X1`1x1|1
+2 282<2T2X2p2t2
+3 3$3<3L3P3T3X3`3x3
+4 4(4@4D4\4l4p4t4|4
+5$54585<5D5\5`5x5|5
+6,6<6@6D6L6d6h6
+7(7,7074787@7X7h7l7p7t7|7
+8 8$8<8L8P8T8X8\8`8h8
+94989P9T9l9p9
+:4:8:P:`:d:h:p:
+;,;0;4;8;@;X;\;t;x;
+<$<<<@<X<\<t<
+= =$=<=L=P=T=X=`=x=|=
+> >$>,>D>H>`>p>t>x>|>
+?(?8?<?@?D?L?d?h?
+0$04080@0X0\0t0
+1(1,1D1H1`1p1t1x1|1
+2(282<2@2D2L2d2h2
+3,303@3D3T3X3h3l3|3
+4 40444D4H4X4\4l4p4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 60646D6H6X6\6l6p6
+7 7$74787H7L7\7`7p7t7
+8$8(8,80848<8T8X8p8
+9(9,9<9@9D9H9P9h9l9
+:$:(:,:4:L:\:`:d:l:
+; ;$;(;0;H;X;\;`;d;l;
+<4<D<H<X<\<`<d<h<l<p<t<|<
+=4=D=H=L=`=d=t=x=
+>$><>L>P>`>d>l>
+?$?(?8?<?D?\?l?p?
+040D0H0X0\0d0|0
+1 10141<1T1d1h1x1|1
+44484@4L4|4
+5$5H5T5\5t5
+6$606P6\6|6
+747@7H7`7l7
+8,888X8d8
+9$9,9L9p9|9
+:(:8:D:L:p:
+;8;L;T;l;
+<0<<<\<d<l<t<
+=,=P=\=d=
+><>L>x>
+?0?D?T?h?p?x?
+080D0d0p0
+1$1,141@1`1l1
+2 2(242T2`2
+3 3(30383@3H3T3t3
+4,484X4`4l4
+5$5,545<5H5h5p5x5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7p7
+8,848<8D8L8T8\8h8
+9,949@9`9h9t9
+:@:`:h:p:x:
+;<;H;h;t;
+<$<D<P<p<|<
+=(=0=<=\=d=l=x=
+> >(>D>H>h>
+0H0P0T0X0\0h0l0p0
+1D1p1
+2 282
+344X4p4
+5D5l5
+6P6|6
+6$7X7x7
+8,8\8x8
+9<9`9
+9(:p:
+;H;d;
+<P<X<\<l<t<x<
+= =0=8=<=L=T=X=h=p=t=
+>8>H>|>
+? ?@?`?
+5$5(5@5D5h5
+6$6(6,6064686<6@6D6L6
+7 787T7p7
+Z0X03
+>0!0	
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+4j,*0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+140903000000Z
+170902235959Z0k1
+California1
+San Jose1
+SonicWall L.L.C.1
+SonicWall L.L.C.0
+:4X}
+z86(
+a4B{		
+$0"0 
+http://sf.symcb.com/sf.crl0f
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0
+K0I0
+http://sf.symcd.com0&
+http://sf.symcb.com/sf.crt0
+RA<,
+%GYE
+G) X
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+100208000000Z
+200207235959Z0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+&J@<
+z;T0S
+i0g0e
+0V0(
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+	image/gif0!0
+#http://logo.verisign.com/vslogo.gif04
+-0+0)
+#http://crl.verisign.com/pca3-g5.crl04
+(0&0$
+http://ocsp.verisign.com0
+VeriSignMPKI-2-80
+3130
+G8J-l
+B=e6
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA
+4j,*0	
+.z@n
+cyqR
+iGar^
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+150913123317Z0#
+w$&]
+g(X4
+Bu?~

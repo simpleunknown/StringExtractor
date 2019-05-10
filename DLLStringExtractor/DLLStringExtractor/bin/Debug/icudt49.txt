@@ -1,0 +1,229 @@
+!This program cannot be run in DOS mode.
+Rich
+.rdata
+@.rsrc
+CmnD
+ Copyright (C) 2012, International Business Machines Corporation and others. All Rights Reserved. 
+icudt49l/cnvalias.icu
+icudt49l/confusables.cfu
+icudt49l/gb18030.cnv
+icudt49l/ibm-1004_P100-1995.cnv
+icudt49l/ibm-1089_P100-1995.cnv
+icudt49l/ibm-1363_P110-1997.cnv
+icudt49l/ibm-1363_P11B-1998.cnv
+icudt49l/ibm-1383_P110-1999.cnv
+icudt49l/ibm-1386_P100-2001.cnv
+icudt49l/ibm-5012_P100-1999.cnv
+icudt49l/ibm-874_P100-1995.cnv
+icudt49l/ibm-9005_X110-2007.cnv
+icudt49l/ibm-912_P100-1995.cnv
+icudt49l/ibm-913_P100-2000.cnv
+icudt49l/ibm-914_P100-1995.cnv
+icudt49l/ibm-915_P100-1995.cnv
+icudt49l/ibm-920_P100-1995.cnv
+icudt49l/ibm-943_P130-1999.cnv
+icudt49l/ibm-943_P15A-2003.cnv
+icudt49l/jisx-212.cnv
+icudt49l/nfc.nrm
+icudt49l/nfkc.nrm
+icudt49l/nfkc_cf.nrm
+icudt49l/uts46.nrm
+icudt49l/windows-936-2000.cnv
+icudt49l/windows-949-2000.cnv
+CvAl
+	4	K	~	
+ G V 
+!"!6!P!d!~!
+"$"3"B"Q"`"x"
+#*#>#Y#m#|#
+$($5$G$Y$h$u$
+%'%9%K%]%o%
+&4&C&R&y&
+'!'.'@'R'd'v'
+Q#g	
+M#c	 	
+y!!$I
+^	%&
+%m&I
+	2 > 
+w!s!b
+ Q G ` V 
+!,!"!@!6!%
+Z!P!
+n!d!
+."$"
+="3"Q
+L"B"["Q"j"`"
+4#*#H#>#c#Y#U	K	w	
+w#m#
+1$($
+>$5$P$G$c$Y$
+q$h$
+%0%'%
+B%9%T%K%f%]%x%o%
+>&4&
+M&C&[&
+&y&R&
+'*'!'7'.'I'@'
+['R'm'd'
+!0 ! 
+} e 
+E	4	
+!1!E!J!_!K
+9#T#h#
+B$T$
+4%F%X%j%|%
+;'M'
+(	*	,	.	0	2	4	6	8	:	<	>	@	B	D	F	H	J	L	N	P	R	T	V	X	Z	\	^	`	b	d	f	h	j	l	n	p	r	t	v	
+x	z	|	~	
+ 	$	*	
+j	n	s	w	
+	 	$	*	
+4	=	?	B	E	
+K	U	Z	^	c	g	j	n	s	w	
+ ! & + 0 2 > 
+G Q 	
+V ` e l q s x } 
+"!,!1!
+6!@!E!J!
+P!Z!_!
+d!n!s!w!y!
+$"."
+3"="
+B"L"
+Q"["
+`"j"o"s"
+*#4#9#
+>#H#M#Q#T#
+Y#c#h#
+m#w#
+($1$
+5$>$B$
+G$P$T$
+Y$c$
+h$q$
+'%0%4%
+9%B%F%
+K%T%X%
+]%f%j%
+o%x%|%
+&"&%&/&
+4&>&
+C&M&
+R&[&_&c&f&m&r&
+!'*'
+.'7';'
+@'I'M'
+R'['_'
+d'm'q'
+E	=	
+=	?	E	
+c	U	g	
+E!J!
+M#H#Q#T#
+=	?	B	E	
+Z	^	
+! & + 0 2 > 
+e l q s x } 
+s!w!y!
+&"&%&
+_&c&f&m&
+UTR22
+WINDOWS
+JAVA
+IANA
+MIME
+UTF-8
+ibm-1208
+ibm-1209
+ibm-5304
+ibm-5305
+ibm-13496
+ibm-13497
+ibm-17592
+ibm-17593
+windows-65001
+cp1208
+x-UTF_8J
+unicode-1-1-utf-8
+unicode-2-0-utf-8
+UTF-16
+ISO-10646-UCS-2
+ibm-1204
+ibm-1205
+unicode
+csUnicode
+ucs-2
+UTF-16BE
+x-utf-16be
+UnicodeBigUnmarked
+ibm-1200
+ibm-1201
+ibm-13488
+ibm-13489
+ibm-17584
+ibm-17585
+ibm-21680
+ibm-21681
+ibm-25776
+ibm-25777
+ibm-29872
+ibm-29873
+ibm-61955
+ibm-61956
+windows-1201
+cp1200
+cp1201
+UTF16_BigEndian
+UTF-16LE
+x-utf-16le
+UnicodeLittleUnmarked
+ibm-1202
+ibm-1203
+ibm-13490
+ibm-13491
+ibm-17586
+ibm-17587
+ibm-21682
+ibm-21683
+ibm-25778
+ibm-25779
+ibm-29874
+ibm-29875
+UTF16_LittleEndian
+windows-1200
+UTF-32
+ISO-10646-UCS-4
+ibm-1236
+ibm-1237
+csUCS4
+ucs-4
+UTF-32BE
+UTF32_BigEndian
+ibm-1232
+ibm-1233
+ibm-9424
+UTF-32LE
+UTF32_LittleEndian
+ibm-1234
+ibm-1235
+UTF16_PlatformEndian
+UTF16_OppositeEndian
+UTF32_PlatformEndian
+UTF32_OppositeEndian
+UTF-16BE,version=1
+UnicodeBig
+UTF-16LE,version=1
+UnicodeLittle
+x-UTF-16LE-BOM
+UTF-16,version=1
+UTF-16,version=2
+UTF-7
+windows-65000
+IMAP-mailbox-name
+SCSU
+ibm-1212
+ibm-1213
+BOCU-1
+csBOCU-1
+ibm

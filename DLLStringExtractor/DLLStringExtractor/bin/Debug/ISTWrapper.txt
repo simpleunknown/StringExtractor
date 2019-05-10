@@ -1,0 +1,647 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+\$ WH
+D$ I
+\$0J
+\$0H
+|$ H
+@VWATH
+\$XH
+l$`I
+D$PH
+L$PL
+T$PH
+\$XH
+l$`H
+0A\_^
+@WATAUAVAWH
+\$hH
+l$pH
+t$xD
+D$`H
+L$`L
+d$`L
+}IIc
+T$`H
+\$hH
+l$pH
+t$xH
+0A_A^A]A\_
+@UVWH
+D$0H
+l$ H
+\$DL
+D$ H
+L$$L
+D$@H
+T$$H
+D$0H
+\$DH
+D$@L
+D$ H
+L$$L
+D$@H
+T$$H
+D$@H
+@UVWH
+D$(H
+t$ H
+\$DH
+\$HH
+D$@L
+D$ H
+L$(L
+D$@H
+D\$D
+T$(H
+D$ H
+L$ L
+D$0H
+D$4H
+T$ H
+D$0H
+D$0H
+D$0H
+D$0H
+D$0H
+D$0H
+D$0H
+D$0H
+D$@H
+D$@H
+D$ H
+D$@H
+D$0H
+D$1H
+T$03
+L$ L
+D$ H
+D$PH
+L$(H
+L$ H
+L$ H
+D$(H
+D$ E3
+Hc@hH
+D$ E3
+D$HH
+D$ L
+L$PL
+Hc@hL
+Hc@hL
+D$ H
+D$@H
+;A0u
+9D$@
+L$ L
+L$(H
+L$ L
+L$ A
+Hc@hH
+D$ E3
+Hc@hH
+Hc@hL
+D$ H
+9A0u
+D$ H
+D$(H
+D$@H
+D$@H
+D$@H
+D$@H
+D$@H
+L$ L
+D$(HcD$XH
+D$$H
+9D$$u
+9D$ht(H
+T$$H
+HcD$XH
+D$,3
+D$XH
+|$4 }sHcD$,HcL$4H
+T$`L
+D$PA
+HcD$0H
+D$,HcD$,H
+D$ H
+L$(H
+L$ A
+D$0H
+D$hH
+D$(H
+D$ E3
+L$(H
+L$ A
+D$0H
+D$hH
+D$(H
+D$ E3
+L$(H
+L$ A
+D$0H
+D$hH
+D$(H
+D$ E3
+L$(H
+L$ A
+D$0H
+D$hH
+D$(H
+D$ E3
+L$d;
+L$ E3
+L$ E3
+D$HH
+D$8H
+D$(?
+D$HH
+D$pH
+D$8H
+D$(?
+L$HH
+L$8H
+D$(?
+D$`H
+L$HH
+L$pH
+L$8H
+D$(?
+D$d9
+D$(H
+D$ A
+D$(H
+D$ A
+D$`H
+D$aH
+T$`H
+D$0K
+L$(H
+L$xH
+L$ D
+D$8P
+D$0H
+D$PH
+D$(H
+D$ E3
+T$`H
+D$0]
+L$(H
+L$@H
+L$ D
+D$8b
+D$0H
+D$(H
+D$ E3
+T$`H
+9D$Pu-
+D$PD
+D$@D
+D$@H
+T$8H
+D$ H
+T$HH
+D$(H
+T$pH
+}zHc
+D$PH
+D$PH
+T$8H
+D$0H
+L$\3
+\$P@8|$Pt
+A8;u
+\$(A
+L$@H
+D$LH
+\$0H
+D$(E3
+D$HH
+\$0H
+T$PA
+L$@A
+WATAUH
+l$(H
+l$0H
+D$(E3
+L$@A
+l$xH
+\$pH
+PA]A\_
+L$AH
+D$@H
+T$0H
+T$@H
+L$13
+T$0A
+D$0H
+D$ t
+\$0H
+L$ZD
+L$PL
+\$0H
+L$PE3
+L$LD
+T$DH
+\$HH
+L$HD
+T$@H
+\$0H
+\$ UVWATAUH
+\$PM
+T$PI
+\$PH
+L$pD
+\$XH
+D$pL
+\$HH
+D$@H
+D$8H
+T$PH
+\$PE
+A]A\_^]
+D$@H
+T$HH
+D$H9D$ t
+D$(H
+T$HH
+D$H9D$ }>HcD$ H
+HcT$ L
+HcD$HH
+T$HH
+D$H9D$ }?HcD$ H
+HcT$ L
+HcD$HH
+T$hH
+D$`H
+D$@3
+D$HH
+D$XH
+'}-Hc
+D$PH
+D$0H
+}JHc
+D$8I
+T$8H
+D$0H
+D$@H
+T$8H
+D$0H
+L$ D
+@ 9D$Pu%
+T$@H
+D$PH
+T$HH
+T$HH
+D$ H
+L$PH
+D$HD
+T$HH
+D$ H
+L$PH
+D$HD
+T$HH
+D$ H
+T$@H
+D$HH
+D$ H
+T$@H
+D$HH
+D$ H
+L$ D
+t$E3
+D$\H
+D$HH
+D$(H
+~:HcD$ H
+L$(H
+D$PHcD$ H
+L$HH
+HcD$\HcL$ H
+T$HH
+HcT$ L
+D$(L
+T$hL
+D$hH
+L$(H
+D$8H
+D$`Hc
+L$(H
+D$PH
+T$`H
+D$XH
+L$pH3
+L$ D
+D$(H
+D$`H
+D$ L
+L$XD
+D$PH
+T$HH
+L$ D
+D$(H
+D$`H
+D$ L
+L$XD
+D$PH
+T$HH
+L$ D
+t$E3
+D$(H
+D$8H
+tyHc
+L$(H
+D$@H
+D$@H
+D$pA
+T$@H
+L$8H
+D$xL
+D$xH
+T$@H
+T$xH
++D$0
+D$hHcD$ H
+L$8H
+D$xHcD$ H
+L$(H
+D$@L
+D$xH
+T$@H
+T$XH
+D$HH
+L$ D
+D$(H
+D$`H
+D$ L
+L$XD
+D$PH
+T$HH
+L$ D
+D$(H
+D$`H
+D$ L
+L$XD
+D$PH
+T$HH
+L$	H
+D$ Hk
+D$ Hk
+D$ Hk
+D$ Hk
+T$ 3
+L$ H
+L$ H
+T$0L
+D$0A
+T$03
+T$03
+T$ L
+D$ A
+T$ L
+D$ A
+T$ L
+D$ A
+T$ L
+D$ A
+T$ L
+D$ A
+T$ L
+D$ A
+T$ L
+D$ A
+T$ L
+D$ A
+T$ L
+D$ A
+T$ L
+D$ A
+T$ L
+D$ A
+T$ L
+D$ A
+L$03
+L$03
+D$0H
+D$XH
+D$<H
+@$9D$<
+T$8H
+|$<(
+D$<i
+D$PL
+T$8H
+D$8L
+T$PH
+L$<H
+D$pH
+D$pH
+L$XH3
+D$ H
+D$HH
+D$HH
+D$HH
+D$HH
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+L$ H3
+D$ H
+D$HH
+D$HH
+D$HH
+D$HH
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@3
+T$@3
+T$@L
+D$@A
+T$@

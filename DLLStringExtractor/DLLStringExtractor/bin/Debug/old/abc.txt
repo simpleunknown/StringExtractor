@@ -1,0 +1,7 @@
+FileVersion
+ProductName
+Twain Source Manager
+ProductVersion
+1,7,0,0
+VarFileInfo
+Translation

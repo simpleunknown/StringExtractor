@@ -1,0 +1,157 @@
+!This program cannot be run in DOS mode.
+&Rich
+.text
+`.data
+.pdata
+@.rsrc
+@.reloc
+('8PW
+700PP
+```hhh
+xppwpp
+sending get cached configuration ioctl failed, win error: %s
+usb_get_configuration
+invalid device handle %p
+usb_os_open
+invalid file name
+invalid file name %s
+failed to open %s: win error: %s
+error: device not open
+usb_set_configuration
+can't change configuration, an interface is still in use (claimed)
+could not set config %d: win error: %s
+device not open
+usb_claim_interface
+could not claim interface %d, invalid configuration %d
+could not claim interface %d, win error: %s
+usb_release_interface
+could not release interface %d, invalid configuration %d
+could not release interface %d, win error: %s
+usb_set_altinterface
+could not set alt interface %d: invalid configuration %d
+could not set alt interface %d: no interface claimed
+could not set alt interface %d/%d: win error: %s
+invalid endpoint 0x%02x
+_usb_setup_async
+invalid endpoint 0x%02x
+memory allocation error
+creating event failed: win error: %s
+invalid context
+usb_submit_async
+invalid configuration %d
+invalid interface %d
+submitting request failed, win error: %s
+invalid context
+_usb_reap_async
+timeout error
+reaping request failed, win error: %s
+usb_cancel_async
+usb_free_async
+usb_control_msg
+invalid request 0x%x
+invalid or unsupported request type: %x
+memory allocation failed
+sending control message failed, win error: %s
+usb_os_find_busses
+bus-0
+found %s
+\\.\libusb0-
+%s%04d
+usb_os_find_devices
+couldn't read device descriptor
+%s--0x%04x-0x%04x
+found %s on %s
+dll version: %d.%d.%d.%d
+usb_os_init
+getting driver version failed
+driver version: %d.%d.%d.%d
+setting debug level failed
+usb_resetep
+could not abort ep 0x%02x, win error: %s
+could not reset ep 0x%02x, win error: %s
+usb_clear_halt
+could not clear halt, ep 0x%02x, win error: %s
+usb_reset
+could not reset device, win error: %s
+usb_reset_ex
+setting debugging level to %d (%s)
+usb_set_debug
+setting debug level failed
+device not open
+_usb_abort_ep
+virtual-hub
+USB_DEBUG
+usb_
+usb_registry_
+unknown
+No error
+Unknown error
+libusb0-dll
+none
+%s:%s [%s] 
+%s:[%s] 
+Press any key to exit..
+This will add libusb-win32 as a driver for all usb devices on the PC. This function is for development purposes only. Improper use of the libusb-win32 filter driver can cause devices to  malfunction and in some cases complete system failure.
+libusb-win32-installer-{1298B356-F6E3-4455-9FEC-3932714AF49B}
+libusb0
+libusb-win32 - Kernel Driver, Version %d.%d.%d.%d
+creating %s service..
+usb_install_service
+system32\drivers\libusb0.sys
+failed creating service %s
+i -dc
+libusbd
+u -ac
+Manufacturer
+%s.%s
+.inf file does not contain a valid model-section-name
+usb_install_find_model_section
+.inf file does not contain a valid Manufacturer section
+This is a 64bit operating system and requires the 64bit libusb-win32 installer application.
+usb_install_inf_np
+newdev.dll
+loading newdev.dll failed
+UpdateDriverForPlugAndPlayDevicesA
+DiUninstallDevice
+DiRollbackDriver
+setupapi.dll
+loading setupapi.dll failed
+SetupCopyOEMInfA
+.inf file %s not found
+unable to open .inf file %s
+usb\
+invalid hardware id %s
+removing
+installing
+%s device %s..
+failed RollBackDriver for device %s
+failed UninstallDevice for device %s
+failed RemoveDevice for device %s
+advapi32.dll
+loading DLL advapi32.dll failed
+usb_service_load_dll
+OpenSCManagerA
+OpenServiceA
+ChangeServiceConfigA
+CloseServiceHandle
+CreateServiceA
+DeleteService
+StartServiceA
+QueryServiceStatus
+ControlService
+loading exported functions of advapi32.dll failed
+ServicesActive
+opening service control manager failed: %s
+usb_service_create
+changing config of service '%s' failed: %s
+creating service '%s' failed: %s
+stopping %s service..
+usb_service_stop
+getting status of service '%s' failed: %s
+stopping service '%s' failed: %s
+deleting %s service..
+usb_service_delete
+deleting service '%s' failed: %s
+;added by libusb to break this file's digital signature
+LIBUSB_NEEDS_REBOOT
+gettin

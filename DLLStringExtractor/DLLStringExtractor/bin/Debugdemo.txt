@@ -1,0 +1,254 @@
+!This program requires Microsoft Windows.
+TWAIN
+___EXPORTEDSTUB
+KERNEL
+USER
+DDEML
+	TWAIN.exe
+	DSM_ENTRY
+INFOHOOK
+CHOOSEDLGPROC
+ABOUTDLGPROC
+	WGDLGPROC
+|-[	
+RPjB
+RQj"
+RQj"
+RPj"
+RQj"
+D2R*=
+a+VW
+z4t,
+m-VW
+q1VW
+&#G2&#W4=
+|2VW
+23VW
+i3VW
+.4VW
+/7VW
+U8VW
+=9VWj
+2:VW
+;VWh
+JCj>
+O?VW
+YCVW
+>JVW
+EQVW
+6KOT
+6KfV
+WRPj
+Dao]
+d_VW
+3t_9
+@<2a
+SaVW
+@bVW
+YcVW
+gVWh
+9hVW
+TpTi
+5kVW
+cpVW
+tnq=
+1:u=
+vhHs
+sxVW
+kyVW
+Z3Bz
+a{VW
+;|VW
+}htz
+d~VW
+V RP
+V &9G
+&9W u
+w(jB
+W&RP
+W&RP
+w(jB
+W*RP
+W&RP
+&9G(t
+&9W*u
+@j@h
+Bj@h
+RPjB
+W$RP
+w jB
+wC69
+[Z@$
+F5EU
+8=u-V
+!@:F
+!<Nu
+WVS3
+[^_]
+Y[_^
+4]_^
+4]_^
+C	X_^
+]!RP
+5, <Xw
+"<Fu
+<st'<ntQ<pt`<Et
+0<9v
+  SPRQ
+t2PPP
+QPPS
+P<-t
+0<9v
+7-\6
+Gw=-
+7PSR3
+7PSR2
+7PSR
+tHr#
+v@Nt=
+Y[_t
+7PQRSUW3
+_][ZYX
+7PQRSUW3
+_][ZYX
+7PQRSUW
++1^_
+?0t\
+^9QP
+9,9Y
+_^s+
+6T9&
+IAj9
+*?r;
+u`AS
+  PQR
+QRQS
+  VQRP
+t6K3
+_r	GW
+QSRUVP
+tAN<Dt
+t1<+t
+Y^u8
+tJ,0rE<	~
+t3<.t ,0r*<	w&
+zc%C1
+3IVW
+WIVW
+3JVW
+[JVW
+KEK@
+%LVW
+SLVW
+wLVW
+MfM"OjM
+OnM6QrMbQvM
+QzM@T~M
+bMVW
+|N,N;N
+vOVW
+tPVW
+CApplication
+CDataSrc
+CDataSrc::IDataSrc - Duplicate Product Name Ignored: %s
+CDsm
+CMessenger
+Twain001.Mtx
+Cmessngr::CMessenger - New FileLock Failed
+Cmessngr--IMessenger - atol Failed
+Cmessngr--IMessenger - ltoa Failed
+CObject
+LogWnd
+LogWndClass
+CTRACE  --%s = %d.%3u
+CTRACE  --%s = %d
+CTWTRACE--NULL to NULL:
+CTWTRACE--NULL to %s(%ld):
+CTWTRACE--%s(%ld) to NULL:
+CTWTRACE--%s(%ld) to %s(%ld):
+CTWTRACE--
+CONTROL
+IMAGE
+[ %04x ]
+CAPABILITY
+EVENT
+IDENTITY
+PARENT
+PENDINGXFERS
+SETUPMEMXFER
+SETUPFILEXFER
+STATUS
+USERINTERFACE
+XFERGROUP
+IMAGEINFO
+IMAGELAYOUT
+IMAGEMEMXFER
+IMAGENATIVEXFER
+IMAGEFILEXFER
+CIECOLOR
+GRAYRESPONSE
+RGBRESPONSE
+JPEGCOMPRESSION
+PALETTE8
+[ %04x ]
+GETCURRENT
+GETDEFAULT
+GETFIRST
+GETNEXT
+RESET
+XFERREADY
+CLOSEDSREQ
+CHECKSTATUS
+OPENDSM
+CLOSEDSM
+OPENDS
+CLOSEDS
+USERSELECT
+DISABLEDS
+ENABLEDS
+PROCESSEVENT...
+ENDXFER
+[ %04x ]
+COMPRESSION
+PIXELTYPE
+PIXELFLAVOR
+UNITS
+XFERMECH
+IMAGEFILEFORMAT
+BRIGHTNESS
+CONTRAST
+HIGHLIGHT
+SHADOW
+XNATIVERESOLUTION
+YNATIVERESOLUTION
+XRESOLUTION
+YRESOLUTION
+XSCALING
+YSCALING
+FEEDERLOADED
+FEEDERENABLED
+FEEDPAGE
+CLEARPAGE
+AUTOFEED
+XFERCOUNT
+[ %04x ]
+Twunk Startup Complete
+Twunk Startup Failed
+Twunk Shutdown Complete
+CTwunk  ::CTwunk - RegisterWindowMessage Failed
+CTwunk  ::AppInitialize - Reset Log
+CTwunk  ::AppInitialize - New twDdeCli Failed
+CTwunk  ::AppInitialize - New TwDs Failed
+CTwunk  ::DsEntry - We're Not The Calling App
+CTwunk  ::DsEntry - Dde Setup Incomplete
+CTwunk  ::CloseServer - Server Not Executing
+Twain Twunk_32
+Twain Twunk_32
+CTwunk  ::CloseServer - Why Can't We Find The Thunker Window?
+CTwunk  ::CloseServer - Posting Close To Thunker
+CTwunk  ::CloseServer - PostMessage Failed
+CTwunk  ::CloseServer - Calling Application Window Does Not Exist
+CTwunk  ::CloseServer - Aborting Thunker Shutdown Process
+CTwunk  ::CloseServer - Discarded Message %X
+CTwunk  ::CloseServer - Discarded Message %X
+CTwunk  ::CloseServer - Servi

@@ -1,0 +1,489 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+D$(H
+D$ H
+D$ H
+D$0D
+D$0H
+D$0H
+D$0H
+D$(H
+D$ H
+D$ H
+D$ H
+D$0D
+D$0H
+D$0H
+D$0H
+D$0H
+L$ H+
+D$@f
+D$ H
+/D$@v
+D$ H
+*D$0
+D$@f
+z.u,
+D$Hf
+D$@f
+/D$Hv
+D$ H
+D$@f
+z.u,
+D$Hf
+D$@f
+/D$Hv
+D$ H
+D$ H
+H;D$ v
+D$ H
+D$ H
+HcL$@H
+D$(H
+T$PH
+D$0H
+D$(H
+T$8H
+D$ 3
+D$ H
+D$ H
+D$ H
+D$(H
+D$(H
+T$ H
+L$(H
+D$HH9D$ t%
+D$(f
+D$ H
+D$(H
+D$(f
+D$HH
+D$@H
+T$(H
+HcD$@
+T$(H
+L$HH3
+D$(H
+D$(H
+D$(H
+D$(f
+D$(H
+D$(H
+D$(H
+D$(H
+D$(9D$ ~	
+D$(9D$ ~	
+HcD$
+D$ H
+D$(H
+D$ H
+D$(H
+D$ H
+D$(H
+D$ H
+D$ H
+D$(H
+D$ H
+L$ D
+D$hH
+D$(H
+D$xH
+D$0H
+D$(H
+L$p+
+D$pH
+D$0H
+D$8H
+D$pH
+L$ D
+D$XH
+D$0H
+D$(H
+L$`+
+D$`H
+D$hH9D$Xt
+HcD$`L
+T$XH
+D$`H
+L$ D
+D$hH
+D$(H
+D$xH
+D$0H
+D$(H
+D$0H
+L$p+
+D$pH
+D$8H
+D$pH
+L$ D
+D$XH
+D$0H
+D$(H
+D$0H
+L$`+
+D$`H
+D$hH9D$Xt
+HcD$`L
+T$XH
+D$`H
+L$ D
+9D$p}
+D$,H
+D$hH
+D$$H
+D$xH
+L$ +
+L$p+
+L$ D
+9D$p}
+D$,H
+D$hH
+D$,H
+D$$H
+D$xH
+L$ +
+L$p+
+D$0H
+D$0H
+D$8H
+D$8H
+tcHc
+tjHcD$
+D$@H
+D$PH
+D$@H
+D$@H
+D$HH
+D$@H
+D$ H
+D$@H
+D$PH
+D$(H
+D$HH
+D$(H
+D$@H
+D$@H
+D$ H
+D$@H
+D$@H
+D$ H
+D$@H
+D$ H
+D$ H
+D$ H
+D$@H
+D$@H
+D$ H
+D$ H
+D$ H
+D$PH
+D$(H
+D$(H
+D$0H
+L$P3
+D$ H
+D$(H
+L$PH
+D$(H
+D$(H
+D$@H
+D$@H
+D$@H
+D$@H
+D$ H
+D$@H
+D$@H
+D$0H
+D$0H
+D$0H
+D$@H
+D$ H
+D$ H
+L$@H9
+D$ H9
+D$ H
+D$(H
+D$(H
+D$(H
+L$ H9H
+D$(H
+L$ H
+D$@H
+L$ L
+D$8H
+D$@H
+D$HH
+D$PH
+D$0H
+T$@H
+D$ H
+T$@H
+D$ H
+L$ L
+D$8H
+D$@H
+D$0H
+D$(H
+D$ H
+D$ H
+D$0H
+D$ H
+D$(H
+H9D$0t
+D$@H
+D$(H
+D$PH9D$(u
+D$@H
+L$HH
+D$(H
+(HcD$0H
+t#HcD$0H
+HcD$0H
+HcD$
+HcD$
+}8HcD$$H
+t#HcD$$H
+HcD$$H
+D$PH
+D$(H
+D$(H
+D$ H
+D$ H
+T$0H
+H9D$0u
+T$0H
+D$8H
+T$0H
+T$8H
+H9D$0t)H
+T$0H
+D$HH
+D$@H
+D$HH
+D$ H
+D$H3
+D$ H
+L$ L
+D$ H
+T$8H
+D$0H
+D$0H
+T$8H
+D$0H
+D$0D
+D$0H
+D$0H
+D$0H
+D$0H
+D$0H
+T$8H
+D$0H
+T$8H
+L$0H
+D$0H
+HcD$
+L$ D
+L$HD
+D$@H
+T$0H
+D$8H
+|$0H
+D$0H
+D$0D
+D$0H
+D$0H
+D$0H
+L$89
+D$ H
+L$ 9
+L$ +
+L$P9
+L$ +
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+L$ D
+D$xH
+T$pH
+L$ L
+T$XH
+D$0H
+D$4H
+D$49D$0u4
+L$XD
+D$03
+D$8H
+T$HH
+D$ H
+D$0H
+L$XD
+D$4H
+D$0H
+L$XD
+D$4H
+D$0H
+L$XD
+D$4H
+D$0H
+L$XD
+D$4H
+D$0H
+L$XD
+L$ D
+L$XD
+T$HH
+L$HD
+L$ D
+D$ L
+L$XD
+T$HH
+L$ D
+L$XD
+T$HH
+L$ D
+D$ L
+L$XD
+T$HH
+L$ D
+L$h+
+T$P+
+D$ L
+L$XD
+T$HH
+L$ D
+D$xH
+T$pH
+L$ L
+T$XH
+D$0H
+L$XD
+L$ D
+L$XD
+T$HH
+L$HD
+L$ D
+D$ L
+L$XD
+T$HH
+L$ D
+L$XD
+T$HH
+L$ D
+D$ L
+L$XD
+T$HH
+L$ D
+L$h+
+T$P+
+D$ L
+L$XD
+T$HH
+L$ D
+L$ L
+T$hH
+D$@H
+L$hD
+L$ D
+L$hD
+T$XH
+L$ D
+L$XD
+L$ D
+D$ L
+L$hD
+T$XH
+L$ D
+L$hD
+T$XH
+L$ D
+D$ L
+L$hD
+T$XH
+L$ D
+L$x+
+T$`+
+D$ L
+L$hD
+T$XH
+L$ D
+D$XH
+T$PH
+L$ D
+L$XD
+D$PH
+D$0H
+T$XH
+T$`H
++D$`
+D$0H
+L$ D
+T$XH
+L$ D
+L$ D
+T$HH
+L$ D
+T$XH
++D$X
+D$ D
+L$PE3
+T$HH
+L$ D
+D$ D
+L$PE3
+T$HH
+L$ D
+L$HD
+T$8H
+L$ D
+L$HD
+T$8H
+T$8H
+T$8H
+T$@H
++D$@D
+T$8H
+T$@H
++D$@D
+T$8H
+L$ D
+D$ D
+L$PE3
+T$HH
+L$ D
+T$XH
++D$X
+D$ D
+L$PE3
+T$HH
+L$ D
+D$XH
+T$PH
+L$ D
+L$XD
+D$PH
+L$ D
+L$ D
+T$HH
+T$`H
++D$`
+D$0H
+L$ D
+T$XH
+D$0H
+T$XH
+L$ D
+L$HD
+T$8H
+L$ D
+L$HD
+T$8H
+T$8H

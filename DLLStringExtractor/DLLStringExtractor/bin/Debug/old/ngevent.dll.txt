@@ -1,0 +1,1351 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+D$(H
+D$(H
+D$ H
+|$PH
+\$0H
+|$Ptg
+D$0H
+t$ WH
+L$0@
+\$0L
+\$8H
+l$@H
+t$HH
+\$0L
+|$ ATH
+|$HH
+|$HH
+r	;W
+l$8H
+t$@A;
+l$PA+
+\$0H
+t$@H
+l$83
+|$HH
+t$@H
+l$83
+|$HH
+w*fC
+r{D;
+wUfC
+s!A;
+w|fC
+wsA;
+r/A;
+s!A;
+|$ ATH
+l$0H
+t$8H
+\$@H
+|$HH
+B(H9A r
+\$@H
+|$HA
+\$@H
+t(D;
+\$@H
+wQfB
+VWATAVAWH
+l$`H
+ A_A^A\_^
+l$`H
+ A_A^A\_^
+@8i1u
+@8o0
+l$XfD
+v:D+
+l$XB
+l$`H
+ A_A^A\_^
+@WAUAVH
+ A^A]_
+l$Hu
+d$Xr
+v2D+
+t$PH
+ A^A]_
+L$ WAVAWH
+D$pA
+t$hH
+\$PH
+l$XL
+d$(L
+L$hL
+v)D+
+L$hL
+L$hL
+d$(H
+\$PH
+l$XL
+l$ H
+t$`H
+0A_A^_
+0A_A^_
+D8I1
+r}D;
+snE;
+r]D;
+w6fC
+L$ E3
+\$ WH
+T$0A
+L$ H
+L$0L
+T$0A
+L$ L
+T$0A
+L$ L
+T$PH
+T$0E3
+A0tHH
+D$PH
+|$ ATH
+d$0E
+|$hH
+@A\H
+\$P3
+l$XH
+t$`H
+\$PH
+l$XH
+VWATH
+VUUU
+A\_^
+VWATH
+|$0L
+D$0H
+|$0H
+A\_^
+@UVWATAUAVAW
+VUUU
+A_A^A]A\_^]
+@SUVWAT
+L$0L
+\$0E3
+T$ L
+l$ H
+|$ H
+L$0L
+A\_^][
+@SUWH
+L$ I
+wDL;
+t$xL
+D$ H
+ 0D$!
+ 0D$"
+ 0D$#
+0D$ 
+ 0D$0
+D$-B
+ 0D$1
+D$.B
+ 0D$2
+D$/B
+ 0D$3H;
+wAH;
+t$xH
+L$@H3
+P_][
+l$ WATAUH
+Y D3Q(3
+D3I,D
+D3Y$H
+t$0H
+l$H1G
+A]A\_
+t$ WATAUH
+$D3Z
+l$0H
+$fff
+l$0E
+T$0A
+T$<E
+L$4E
+D$8D3
+D$ 1
+D$$H
+\$81F
+D$(1F
+D$,1F
+t$HH
+A]A\_
+t*E3
+T$ H
+L$@H3
+\$hH
+@SVWH
+d$xH
+L$PH3
+l$pD
+l$?L
+t$hD
+t$>D
+D$;L
+|$`D
+D$ ff
+\$ 3
+D$0L
+D$@H
+D$4H
+T$8A
+T$:E
+\$;D
+d$<D
+|$=D
+l$?D
+d$(L
+|$`L
+t$hL
+l$pA
+T$@M
+T$@3
+~$ff
+@UVWAUH
+\$PL
+\$PL
+d$HH
+L$0H3
+XA]_^]
+T$ H
+L$ I+
+D$ L+
+T$ L
+~ ff
+L$ A
+L$0I+
+T$ L
+@SVWH
+l$pL
+t$hL
+l$pL
+d$xH
+|$`H
+L$PH3
+l$?D
+t$>D
+D$ fff
+l$ E3
+D$0L
+D$@H
+D$4H
+T$1D
+L$8A
+L$9A
+\$:D
+l$<D
+|$=D
+t$>D
+D$@$
+D$@H
+D$LE3
+~%fff
+@SUVH
+d$PA
+|$XL
+d$PH
+L$@H3
+`^][
+L$ A
+D$0H
+D$$D
+\$ 1D$4
+D$(D1\$01D$8
+D$,H
+L$ 1D$<H
+L$0H
+D$0H
+D$$3\$,1D$4
+D$(1D$8D
+\$<D1\$0
+T$0H
+D$0H
+T$0H
+WATAUH
+VUUUE3
+tfIc
+\$@H
+l$HH
+t$PH
+ A]A\_
+UVWH
+\$PH
+ _^]
+d$@L
+=t[=
+sFE3
+d$@L
+l$HH
+\$PH
+ _^]
+D8	t
+D$(f
+L$PH
+\$0H
+l$8H
+t$@H
+L$ 3
+9\$ t
+9D$0
+L$ 3
+9\$ t
+L$ 3
+9\$ t
+L$ 3
+9\$ t
+|$(Z
+L$ 3
+9\$ t
+L$ 3
+9\$ t
+L$ 3
+D$ =
+L$ 3
+9\$ t
+L$ 3
+9\$ t
+9\$(
+L$ 3
+9\$ t
+9D$(
+L$ 3
+9\$ t
+L$ 3
+9\$ t
+T$$;
+D$(;
+L$ 3
+L$ H
+L$(H
+L$0H
+L$8H
+L$@H
+L$HH
+|$ 	
+L$P3
+9\$Pt
+9\$P
+D$PH
+D$0H
+D$DE3
+D$(H
+D$@E3
+k VWATH
+L$@3
+D$H;
+	t	L
+D$0H
+D$8P
+L$0H
+D$8H
+D$(H
+D$HD
+L$DL
+D$LD
+L$DL
+D$HH
+D$TH
+D$0H
+L$0H
+L$LL
+D$U<Ct
+<BujL
+|$UAu2L
+D$LD
+L$DL
+D$HH
+A\_^
+xmI+
+xmI+
+L$ VWH
+\$ H
+L$XH
+)t$ H
+z-u+H
+L$@H
+*l$@
+*l$H
+(t$ H
+t$ WH
+D$0L
+D$@A
+L$@H
+D$0L
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+t%SH
+WATAUAVAWH
+l$`E
+t$(D
+l$`H
+\$hH
+0A_A^A]A\_
+|$03
+|$03
+|$0H
+|$03
+|$03
+|$0H
+\$0H
+\$0H
+\$0H
+L$ H
+D$PL
+D$ H
+T$PH
+D$(H
+L$ H
+LOGFILE
+\$@H
+t$HH
+t$ WH
+L$ H
+L$(H
+L$0H
+L$8H
+L$@L
+T$&H
+L$ H
+L$ H
+L$ H
+L$ H
+L$ H
+L$ H
+L$ H
+L$ H
+L$ H
+D$&H
+l$8f
+D$$H
+|$>H
+D$xH
+D$0H
+D$0H
+D$(H
+D$pH
+L$ H
+\$0H
+t$8H
+WATAUH
+l$`fA
+l$0A
+d$(H
+l$0D
+L$(D
+,{fD9+
+l$0A
+d$(H
+,{fD9+uqH
+l$0A
+d$(H
+l$`H
+\$hH
+t$pH
+@A]A\_
+@SUVATAUAVH
+L$(A
+T$@H
+DL>:
+|$@f
+T$@I
+F,I;
+T$(I
+|$ I
+A^A]A\^][
+@SVWATAUAVAW
+L$`H
+T$PL
+D$hH
+D$HE
+T$xH
+\$(H
+\$ E3
+D$x3
+<_Hc
+D$(H
+\$ L
+D$(H
+\$ A
+^(Hc
+D$(H
+\$ A
+^8Hc
+D$ M
+^@Ic
+\$XA
+|$D3
+T$(A
+|$DD
+l$@L
+t$`H
+t$PL
+d$hD
+l$@Hc
+L$HH
+D$(H
+\$ E3
+|$DD
+l$@L
+t$`H
+t$PL
+d$hH
+D$HD
+L$HH
+D$(H
+\$ E3
+A_A^A]A\_^[
+<0r!<9w
+t fA
+::uCfD
+D$0A
+::uMfD
+D$0A
+D$`A
+D$(L
+L$0E3
+;D$pr
+;D$xw
+\$PH
+VWATH
+|$pH
+I98t	E
+D$8H
+\$`H
+H9>H
+L$8H
+D$pE3
+D$(E3
+L$p;
+l$pH
+l$pH
+L$8H
+D$pL
+L$0H
+D$(H
+L$8H
+\$`H
+l$hH
+@A\_^
+l$hH
+@A\_^
+l$ WH
+l$XH
+l$`u
+\$XH
+D$PH
+|$PH
+L$XH
+D$DH
+L$@H
+D$(H
+L$XH
+D$DH
+D$(L
+L$@H
+L$XH
+D$DH
+D$(L
+L$@H
+L$XH
+D$`H
+L$`H
+D$xL
+L$DH
+D$8H
+l$0L
+l$(H
+L$`H
+D$PH
+L$PH
+D$HL
+L$pH
+D$(H
+D$@H
+L$PH
+D$HH
+D$(L
+L$lH
+D$@H
+L$PL
+L$hH
+D$HH
+D$(E3
+L$PH
+L$`H
+D$8H
+l$0L
+L$DL
+l$(H
+L$`H
+L$XH
+\$ UH
+l$PH
+l$`u
+D$PH
+@8+u
+L$(H
+L$PH
+L$ H
+L$PD
+L$ H
+L$PD
+L$PD
+L$PH
+D$`H
+L$`H
+D$pL
+L$XH
+D$8H
+l$0L
+l$(H
+L$`H
+D$HH
+L$HH
+D$hL
+L$lH
+D$(H
+D$@H
+L$@H
+L$HD
+L$HH
+L$ H
+L$HH
+L$HH
+L$`H
+D$8H
+l$0L
+L$XL
+l$(H
+L$`H
+L$PH
+\$0H
+t$8H
+\$0H
+D$PL
+D$`H
+L$`H
+D$PH
+D$ H
+D$XE3
+L$8H
+L$(H
+L$ H
+\$@H
+D$HH
+L$HD
+L$ E
+\$@H
+t$HH
+\$@H
+t$HH
+\$@H
+WATAUH
+\$PH
+l$XH
+t$`H
+0A]A\_
+WATAUH
+\$PH
+l$XH
+t$`H
+0A]A\_
+|$ ATAUAVH
+Q 9E I
+t$PH
+\$XH
+l$`H
+|$hH
+0A^A]A\
+s WH
+t$(I
+\$0H
+|$8H
+\$03
+l$0H
+t$8H
+|$@H
+|$@H
+l$0t!H
+@81tgH
+l$(I
+T$@H
+t$pH
+\$HH
+t$@H
+t$(H
+t$@H
+\$HH
+ATAUAWH
+D$`H
+D$HH
+D$pA
+D$`H
+D$`H
+L$`D
+L$`H
+T$HA
+T$ H
+L$`H
+D$HH
+L$HH
+D$hL
+L$XH
+D$8L
+l$0L
+D$p3
+l$(A
+l$PL
+L$HH
+D$PH
+T$pA
+L$HH
+D$PH
+T$pA
+L$PL
+D$@H
+D$(?
+D$@H
+L$PH
+L$@I
+D$@M9
+L$pf
+D$@H
+L$PM
+L$PH
+L$HH
+D$8L
+l$0L
+L$XL
+l$(L
+L$HL
+L$`H
+A_A]A\
+t$ WH
+D$0uNH
+C(t H
+D$0u
+\$8H
+l$@H
+t$HH
+D$0u
+@SUWATH
+D$(L
+L$@fI
+\$0D
+A\_][
+@SWATAUH
+\$@f
+D$(L
+L$@fI
+\L@M
+L$@H
+\$0D
+L$@f
+A]A\_[
+@SVATAUH
+D85I
+D$(L
+t$8L
+t$0Hc
+D$PA
+T$@H
+L$PL
+|$@H
+L$P3
+L$PL
+L$@H
+t$8D
+D$03
+A]A\^[
+|$ ATH
+\$0H
+l$8H
+t$@H
+|$HH
+D$8H
+D$8H
+D$@H
+D$@H
+WATAUH
+r+ff
+t"H;
+\$@H
+l$HH
+t$PH
+ A]A\_
+\$@H
+t$HH
+|$PH
+\$0H
+t$8H
+D$XE3
+T$`H
+D$PH
+D$HH
+D$0H
+D$@H
+D$(H
+D$ L
+L$PL
+D$XH
+T$`3
+D$hH
+\$0H
+\$0H
+9MZu
+HcQ<
+LcA<E3
+L$0H
+L$8D
+\$8L3
+\$@H
+\\.\NGLOG
+{CEC3B178-71FB-4195-A326-36529E3C53B5}
+uU<YE*%kN
+q8)b
+upkd
+Error: unable to perform base64 encoding
+Error: unable to allocate memory for base64 encoding
+Error: unable to encrypt the line %s
+Error: unable to decrypt the line %s
+Last char: [%c]
+Error: unable to base64 decode the line [%s]
+Error: unable to allocate memory for base64 decoding
+Done.
+Encrypting %s, output: %s ... 
+Decrypting %s, output: %s ... 
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/Dont bother
+GetNativeSystemInfo
+kernel32
+NTFS
+Microsoft Win32s 
+UNKNOWN Windows OS 
+Microsoft Windows Millennium Edition 
+Microsoft Windows 98 
+OSR2 
+Microsoft Windows 95 
+Build %d 
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Hotfix\Q246009
+Service Pack 6
+%d.%d.%d 
+%d.%d 
+SERVERNT
+LANMANNT
+Workstation 
+WINNT
+ProductType
+SYSTEM\CurrentControlSet\Control\ProductOptions
+Server 4.0 
+Server 4.0, Enterprise Edition 
+Server 
+Advanced Server 
+Datacenter Server 
+Standard Edition 
+Web Edition 
+Enterprise Edition 
+Datacenter Edition 
+Professional 
+Home Edition 
+Workstation 4.0 
+x86, 
+Itanium, 
+x64, 
+Unknown, 
+UNKNOWN Windows NT OS, 
+Microsoft Windows NT, 
+Microsoft Windows 2000, 
+Microsoft Windows XP, 
+Microsoft Windows Server 2003, 
+Microsoft Windows Server 2008, 
+Microsoft Windows Vista, 
+Microsoft Windows Server 2008 R2, 
+Microsoft Windows 7, 
+ntdll.dll
+wininet.dll
+State
+CategoryId
+Categories
+LogSeverity
+LogDriverBufferSize
+LogFileSize
+LogFileName
+nglog.lgf
+System\CurrentControlSet\Services\NgLog\Parameters
+ViewSeverity
+ngmsgs.dll
+%13.6f %s [%03x] 
+RSDS
+G:\autobuilder\builds\ex-jay-10.7.2-msclient\jay\10.7.2\src\avt\ng\client\ngevent\release\ngevent.pdb
+GetLastError
+CreateFileA
+CloseHandle
+DebugBreak
+GetSystemTimeAsFileTime
+GetFullPathNameA
+ExpandEnvironmentStringsA
+DeviceIoControl
+GetFileSize
+GetVersionExA
+VerifyVersionInfoA
+VerSetConditionMask
+GetProcAddress
+GetModuleHandleA
+GetVolumeInformationA
+GetWindowsDirectoryA
+GetSystemInfo
+DeleteCriticalSection
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+QueryPerformanceFrequency
+UnmapViewOfFile
+FlushViewOfFile
+MapViewOfFileEx
+CreateFileMappingA
+FreeLibrary
+FormatMessageW
+LoadLibraryA
+MultiByteToWideChar
+GetTimeFormatW
+GetDateFormatW
+FileTimeToSystemTime
+FileTimeToLocalFileTime
+HeapAlloc
+GetProcessHeap
+OutputDebugStringA
+GetCurrentThreadId
+OutputDebugStringW
+WideCharToMultiByte
+KERNEL32.dll
+OpenInputDesktop
+CloseDesktop
+GetUserObjectInformationA
+LoadStringW
+LoadStringA
+USER32.dll
+SetFileSecurityA
+SetSecurityDescriptorDacl
+InitializeSecurityDescriptor
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyExA
+RegEnumKeyExA
+RegDeleteValueA
+RegSetValueExA
+ADVAPI32.dll
+RasGetErrorStringW
+RASAPI32.dll
+memset
+memcpy
+__CxxFrameHandler3
+_stricmp
+free
+malloc
+fprintf
+__iob_func
+calloc
+_strdup
+fclose
+fgets
+fopen
+printf
+strncpy
+_mbsicmp
+_vsnprintf
+_splitpath
+_wcsicmp
+_vswprintf
+_close
+_write
+?_open@@YAHPEBDHH@Z
+_snprintf
+_vsnwprintf
+_snwprintf
+MSVCR80.dll
+__C_specific_handler
+_unlock
+__dllonexit
+_encode_pointer
+_lock
+_onexit
+_decode_pointer
+_malloc_crt
+_initterm
+_initterm_e
+_encoded_null
+_amsg_exit
+__CppXcptFilter
+__crt_debugger_hook
+__clean_type_info_names_internal
+Sleep
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+RtlVirtualUnwind
+RtlLookupFunctionEntry
+RtlCaptureContext
+GetTickCount
+GetCurrentProcessId
+ngevent.dll
+GetElapsedTime
+AsFormatMessage
+AsLogInit
+AsLogQuerySeverity
+AsLogReset
+AsLogSetSeverity
+AsReadLogSettings
+AsViewClose
+AsViewGetFirst
+AsViewGetLast
+AsViewGetNext
+AsViewGetPrev
+AsViewGetSettings
+AsViewOpen
+AsViewSaveAs
+AsViewUpdate
+AsWriteLogSettings
+DllMain
+GetErrorMessage
+IsSystemLogFileName
+LogDebugPrint
+LogErrorPrint
+LogInfoPrint
+LogPrint
+LogPrintEPC
+LogPrintExW
+LogWarningPrint
+LogWrite
+LogWriteEx
+c|w{
+9JLX
+~=d]
+T`00P
+V++}
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+RF##e
+&N''i
+X,,t4
+v;;M
+R)){
+>^//q
+,@  `
+r99K
+f33U
+x<<D%
+p88H
+uB!!c 
+z==G
+D""fT**~;
+;d22Vt::N
+H$$l
+Cn77Y
+J%%o\..r8
+|>>Bq
+j55_
+P((x
+Z--w
+P`00
+gg}V++
+jL&&Zl66A~??
+\h44
+Sb11?*
+eF##^
+iN''
+tX,,.4
+RRMv;;a
+{R))>
+q^//
+`@  
+Kr99
+MMUf33
+PPDx<<
+Hp88
+cB!!0 
+DD9.
+~~Gz==
+]]+2
+fD""~T**
+Vd22Nt::
+lH$$
+Yn77
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+wZ--
+0P`0
+g+}V+
+&jL&6Zl6?A~?
+4\h4
+1Sb1
+#eF#
+'iN'
+,tX,
+R;Mv;
+){R)
+/q^/
+ `@ 
+9Kr9J
+M3Uf3
+P<Dx<
+8Hp8
+!cB!
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+$lH$\
+7Yn7m
+x%oJ%.r\.
+p>B|>
+a5_j5W
+U(xP(
+-wZ-
+00P`
+++}V
+=&&jL66Zl??A~
+44\h
+11Sb
+##eF
+''iN
+,,tX
+-6nn
+;;Mv
+})){R
+//q^
+  `@
+g99KrJJ
+33Uf
+<<Dx
+!88Hp
+!!cB
+==Gzdd
++2ss
+""fD**~T
+22Vd::Nt
+$$lH\\
+77Ynmm
+%%oJ..r\
+!>KK
+>>B|
+55_jWW
+3"ii
+((xP
+)--wZ
+P~AeS
+-Xt!
+X>k'
+Q3`bS
+pHhX
+lZrN
+6-9'
+$6.:
+ZwKi
+T~Fb
+&x	nY
+*?#1
+>8$4,
+pHl\t
+WBPQ
+S~Ae
+Xt!)I
+Q3EbS
++XpHh
+@Cwg
+pNlZr
+'6-9d
+[T:$6.
+ iZwK
+*C<"
+Df;4[
+bT~F
+1*?#0
+f7tN
+,8$4_
+(<IA
+tHl\B
+eS~A
+U 0m
+Xti)I
+EbSw
+hXpH
+*fU(
+H2+p
+rNlZ
+9'6-
+!h\T
+[.:$6g
+KiZw
+Df~4[
+Bc"@
+j_FbT~
+#1*?
+h4,8$@_
+2\tHlWB
+PQAeS~
+U vm
+Ebdw
+HhXpE
+ZrNl
+=-9'6
+!h[T
+6.:$
+awKiZ
+~4[C)v
+j~FbT
+1?#1*
+[_=o
+$4,8
+l\tH
+lpHP
+8$4,6-9'$6.:*?#1pHhX~AeSlZrNbS
+EHl\tFeQ
+T~FbZwKi
+,8$4'6-9:$6.1*?#XpHhS~AeNlZrEbS
+tHl\
+FeQbT~FiZwK
+*<zG
+V},z7
+4,8$9'6-.:$6#1*?hXpHeS~ArNlZ
+EbS\tHlQ
+FeFbT~KiZw
+$4,8-9'66.:$?#1*HhXpAeS~ZrNlS
+Ebl\tHeQ
+F~FbTwKiZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC80.CRT" version="8.0.50727.762" processorArchitecture="amd64" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
+Z0X03
+>0!0	
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+4j,*0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+140903000000Z
+170902235959Z0k1
+California1
+San Jose1
+SonicWall L.L.C.1
+SonicWall L.L.C.0
+:4X}
+z86(
+a4B{		
+$0"0 
+http://sf.symcb.com/sf.crl0f
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0
+K0I0
+http://sf.symcd.com0&
+http://sf.symcb.com/sf.crt0
+RA<,
+%GYE
+G) X
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+100208000000Z
+200207235959Z0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+&J@<
+z;T0S
+i0g0e
+0V0(
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+	image/gif0!0
+#http://logo.verisign.com/vslogo.gif04
+-0+0)
+#http://crl.verisign.com/pca3-g5.crl04
+(0&0$
+http://ocsp.verisign.com0
+VeriSignMPKI-2-80
+3130
+G8J-l
+B=e6
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA
+4j,*0	
+6? b=s
+RG"}
+C9.\
+'e&@
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+150913122733Z0#
+,.DD
+hwJW
+!CJbXZg
+Qua;
+k~15
+D$^n

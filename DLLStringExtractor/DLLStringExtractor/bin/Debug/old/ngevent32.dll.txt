@@ -1,0 +1,704 @@
+!This program cannot be run in DOS mode.
+Rich0#b
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+r	;Q
+[_^]
+^[_]
+u2;~
+W$;V,r
+W ;V(r	
+_^[]
+t*SP
+QVVh
+t-9q
+RVVj
+F(RP
+SVWP
+}2Wh
+VUUU
+WPVS
+Y_^[
+SVWP
+V}.h
+Y_^[
+3~,3V$
+T1$1P
+T1(1P
+T1,1P
+W$3S
+~83x
+~<3x
+N$1H
+V(1P
+N,1H
+v"SW
+VUUU
+;3s`
+;3sQ
+;3sG3
+_^[]
+$Vh4
+ t{3
+QRhL
+RPQh@
+<BuSh
+Au&h
+QRPh@
+_^[]
+_^[]
+|?SVW
+PQVW3
+u	_^]
+[_^]
+T0(R
+T0(R
+D0(P
+QPVVh
+QVh	
+PVh	
+QVh	
+[_^]
+SVWP
+PVht
+Y_^[
+_^[]
+_^[]
+8:u"
+8:u"
+Wu}f
+RSSS
+QPPP
+j?PP
+u	_^]
+P0QRV
+WPRV
+_^[]
+_^[]
+SQRW
+_^[]
+[_^]
+VdRP
+j?WW
+RWWW
+Wj<j
+N4QP
+	SVW
+^t	j
+@_^[]
+u WPS
+uCWVS
+t%WVS
+Y__^[
+9MZt
+Y_^[
+Y_^[
+\\.\NGLOG
+{CEC3B178-71FB-4195-A326-36529E3C53B5}
+uU<YE*%kN
+q8)b
+upkd
+Error: unable to perform base64 encoding
+Error: unable to allocate memory for base64 encoding
+Error: unable to encrypt the line %s
+Error: unable to decrypt the line %s
+Last char: [%c]
+Error: unable to base64 decode the line [%s]
+Error: unable to allocate memory for base64 decoding
+Done.
+Encrypting %s, output: %s ... 
+Decrypting %s, output: %s ... 
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/Dont bother
+kernel32
+GetNativeSystemInfo
+NTFS
+Microsoft Win32s 
+UNKNOWN Windows OS 
+Microsoft Windows Millennium Edition 
+Microsoft Windows 98 
+OSR2 
+Microsoft Windows 95 
+Build %d 
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Hotfix\Q246009
+Service Pack 6
+%d.%d.%d 
+%d.%d 
+SERVERNT
+LANMANNT
+Workstation 
+WINNT
+ProductType
+SYSTEM\CurrentControlSet\Control\ProductOptions
+Server 4.0 
+Server 4.0, Enterprise Edition 
+Server 
+Advanced Server 
+Datacenter Server 
+Standard Edition 
+Web Edition 
+Enterprise Edition 
+Datacenter Edition 
+Professional 
+Home Edition 
+Workstation 4.0 
+x86, 
+Itanium, 
+x64, 
+Unknown, 
+UNKNOWN Windows NT OS, 
+Microsoft Windows NT, 
+Microsoft Windows 2000, 
+Microsoft Windows XP, 
+Microsoft Windows Server 2003, 
+Microsoft Windows Server 2008, 
+Microsoft Windows Vista, 
+Microsoft Windows Server 2008 R2, 
+Microsoft Windows 7, 
+LOGFILE
+ntdll.dll
+wininet.dll
+State
+CategoryId
+Categories
+LogSeverity
+LogDriverBufferSize
+LogFileSize
+LogFileName
+nglog.lgf
+System\CurrentControlSet\Services\NgLog\Parameters
+ViewSeverity
+ngmsgs.dll
+%13.6f %s [%03x] 
+RSDSe
+G:\autobuilder\builds\ex-jay-10.7.2-msclient\jay\10.7.2\src\avt\ng\client\ngevent\release32\ngevent32.pdb
+GetLastError
+CreateFileA
+CloseHandle
+DebugBreak
+GetSystemTimeAsFileTime
+GetFullPathNameA
+ExpandEnvironmentStringsA
+DeviceIoControl
+GetFileSize
+GetVersionExA
+VerifyVersionInfoA
+VerSetConditionMask
+GetProcAddress
+GetModuleHandleA
+GetVolumeInformationA
+GetWindowsDirectoryA
+GetSystemInfo
+DeleteCriticalSection
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+QueryPerformanceFrequency
+UnmapViewOfFile
+FlushViewOfFile
+MapViewOfFileEx
+CreateFileMappingA
+FreeLibrary
+FormatMessageW
+LoadLibraryA
+MultiByteToWideChar
+GetTimeFormatW
+GetDateFormatW
+FileTimeToSystemTime
+FileTimeToLocalFileTime
+HeapAlloc
+GetProcessHeap
+OutputDebugStringA
+GetCurrentThreadId
+OutputDebugStringW
+WideCharToMultiByte
+KERNEL32.dll
+OpenInputDesktop
+CloseDesktop
+GetUserObjectInformationA
+LoadStringW
+LoadStringA
+USER32.dll
+SetFileSecurityA
+SetSecurityDescriptorDacl
+InitializeSecurityDescriptor
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyExA
+RegEnumKeyExA
+RegDeleteValueA
+RegSetValueExA
+ADVAPI32.dll
+RasGetErrorStringW
+RASAPI32.dll
+memset
+memcpy
+_stricmp
+free
+malloc
+fprintf
+__iob_func
+calloc
+__CxxFrameHandler3
+_strdup
+fclose
+fgets
+fopen
+printf
+strncpy
+_mbsicmp
+_vsnprintf
+_splitpath
+_wcsicmp
+_vswprintf
+_close
+_write
+?_open@@YAHPBDHH@Z
+_snprintf
+_vsnwprintf
+_snwprintf
+MSVCR80.dll
+_unlock
+__dllonexit
+_encode_pointer
+_lock
+_onexit
+_decode_pointer
+_malloc_crt
+_encoded_null
+_initterm
+_initterm_e
+_amsg_exit
+_adjust_fdiv
+__CppXcptFilter
+_crt_debugger_hook
+_except_handler4_common
+__clean_type_info_names_internal
+InterlockedExchange
+Sleep
+InterlockedCompareExchange
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+GetTickCount
+GetCurrentProcessId
+ngevent32.dll
+GetElapsedTime
+AsFormatMessage
+AsLogInit
+AsLogQuerySeverity
+AsLogReset
+AsLogSetSeverity
+AsReadLogSettings
+AsViewClose
+AsViewGetFirst
+AsViewGetLast
+AsViewGetNext
+AsViewGetPrev
+AsViewGetSettings
+AsViewOpen
+AsViewSaveAs
+AsViewUpdate
+AsWriteLogSettings
+DllMain
+GetErrorMessage
+IsSystemLogFileName
+LogDebugPrint
+LogErrorPrint
+LogInfoPrint
+LogPrint
+LogPrintEPC
+LogPrintExW
+LogWarningPrint
+LogWrite
+LogWriteEx
+c|w{
+9JLX
+~=d]
+T`00P
+V++}
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+RF##e
+&N''i
+X,,t4
+v;;M
+R)){
+>^//q
+,@  `
+r99K
+f33U
+x<<D%
+p88H
+uB!!c 
+z==G
+D""fT**~;
+;d22Vt::N
+H$$l
+Cn77Y
+J%%o\..r8
+|>>Bq
+j55_
+P((x
+Z--w
+P`00
+gg}V++
+jL&&Zl66A~??
+\h44
+Sb11?*
+eF##^
+iN''
+tX,,.4
+RRMv;;a
+{R))>
+q^//
+`@  
+Kr99
+MMUf33
+PPDx<<
+Hp88
+cB!!0 
+DD9.
+~~Gz==
+]]+2
+fD""~T**
+Vd22Nt::
+lH$$
+Yn77
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+wZ--
+0P`0
+g+}V+
+&jL&6Zl6?A~?
+4\h4
+1Sb1
+#eF#
+'iN'
+,tX,
+R;Mv;
+){R)
+/q^/
+ `@ 
+9Kr9J
+M3Uf3
+P<Dx<
+8Hp8
+!cB!
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+$lH$\
+7Yn7m
+x%oJ%.r\.
+p>B|>
+a5_j5W
+U(xP(
+-wZ-
+00P`
+++}V
+=&&jL66Zl??A~
+44\h
+11Sb
+##eF
+''iN
+,,tX
+-6nn
+;;Mv
+})){R
+//q^
+  `@
+g99KrJJ
+33Uf
+<<Dx
+!88Hp
+!!cB
+==Gzdd
++2ss
+""fD**~T
+22Vd::Nt
+$$lH\\
+77Ynmm
+%%oJ..r\
+!>KK
+>>B|
+55_jWW
+3"ii
+((xP
+)--wZ
+P~AeS
+-Xt!
+X>k'
+Q3`bS
+pHhX
+lZrN
+6-9'
+$6.:
+ZwKi
+T~Fb
+&x	nY
+*?#1
+>8$4,
+pHl\t
+WBPQ
+S~Ae
+Xt!)I
+Q3EbS
++XpHh
+@Cwg
+pNlZr
+'6-9d
+[T:$6.
+ iZwK
+*C<"
+Df;4[
+bT~F
+1*?#0
+f7tN
+,8$4_
+(<IA
+tHl\B
+eS~A
+U 0m
+Xti)I
+EbSw
+hXpH
+*fU(
+H2+p
+rNlZ
+9'6-
+!h\T
+[.:$6g
+KiZw
+Df~4[
+Bc"@
+j_FbT~
+#1*?
+h4,8$@_
+2\tHlWB
+PQAeS~
+U vm
+Ebdw
+HhXpE
+ZrNl
+=-9'6
+!h[T
+6.:$
+awKiZ
+~4[C)v
+j~FbT
+1?#1*
+[_=o
+$4,8
+l\tH
+lpHP
+8$4,6-9'$6.:*?#1pHhX~AeSlZrNbS
+EHl\tFeQ
+T~FbZwKi
+,8$4'6-9:$6.1*?#XpHhS~AeNlZrEbS
+tHl\
+FeQbT~FiZwK
+*<zG
+V},z7
+4,8$9'6-.:$6#1*?hXpHeS~ArNlZ
+EbS\tHlQ
+FeFbT~KiZw
+$4,8-9'66.:$?#1*HhXpAeS~ZrNlS
+Ebl\tHeQ
+F~FbTwKiZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC80.CRT" version="8.0.50727.762" processorArchitecture="X86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
+!0'090R0W0c0k0u0
+1"1*151;1E1
+9,:@=J=^=r=
+>:>R>
+?Q?]?
+f0x0
+1I1]1c1m1
+1[2i2o2y2
+3-3X3^3h3
+53595>5E5S5m5
+6"6g6
+7&7x7
+7W8b8l8w8
+9W9a9p9z9
+:':h:r:
+;*;1;
+<'<:<J<\<j<{<
+=.=:=D=V=c=r=|=
+=9>I>U>_>q>~>
+?B?T?g?v?
+0*060g0
+17577w:
+<J=f=
+>&>->v>
+>t?z?
+0:1Y1
+2)2j2
+2*3I3
+4:5Y5
+8&8J8
+8;9B9v9}9
+:*:1:8:?:O:z:
+;";5;?;T;
+=_=~=
+D0v0
+1/191[1j1
+2,232B2Q2z2
+828?8
+;a;D<J<j<
+<0=j=
+=b>j>
+10f0
+0<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+102D2`2j2
+3R3e3
+<a<h<
+=k=v=
+>/>6>|>
+>/?R?l?
+0L0W0
+1H1m1t1
+2C2r2y2
+3*3g3z3
+4.4R4]4s4z4
+9I:W:
+;+;2;x;
+<%=7=z=
+=f>k>
+?1?=?P?b?
+0o0w0
+0&1K1z1
+222D2y2
+3&3?3f3l3r3x3~3
+4 4&4,42484>4D4J4P4V4\4b4h4n4t4z4
+5N5T5Z5`5r5y5
+50666<6B6H6N6T6g6p6y6~6
+7#787=7C7^7c7o7~7
+8 8=8D8I8N8W8a8r8
+949|9
+:#:,:1:7:A:J:U:a:f:v:{:
+:2;7;E;S;X;w;|;
+;6<;<M<k<
+=.=;=G=O=W=c=
+;(;T;\;
+Z0X03
+>0!0	
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+4j,*0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+140903000000Z
+170902235959Z0k1
+California1
+San Jose1
+SonicWall L.L.C.1
+SonicWall L.L.C.0
+:4X}
+z86(
+a4B{		
+$0"0 
+http://sf.symcb.com/sf.crl0f
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0
+K0I0
+http://sf.symcd.com0&
+http://sf.symcb.com/sf.crt0
+RA<,
+%GYE
+G) X
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+100208000000Z
+200207235959Z0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+&J@<
+z;T0S
+i0g0e
+0V0(
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+	image/gif0!0
+#http://logo.verisign.com/vslogo.gif04
+-0+0)
+#http://crl.verisign.com/pca3-g5.crl04
+(0&0$
+http://ocsp.verisign.com0
+VeriSignMPKI-2-80
+3130
+G8J-l
+B=e6
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA
+4j,*0	
+ux#5
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+150913122706Z0#
+BxQ3
+?r.n

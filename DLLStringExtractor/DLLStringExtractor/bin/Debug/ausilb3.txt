@@ -1,0 +1,619 @@
+!This program cannot be run in DOS mode.
+=Rich'
+.text
+`.rdata
+@.data
+.pdata
+@.gfids
+@.rsrc
+@.reloc
+\$HH
+\$HH
+\$HH
+\$HH
+Mbp?H
+\$0H
+t$8H
+|$@I
+\$@H
+P 9F
+P89G
+P@9G
+\$0H
+t$8H
+\$02
+t$8H
+P(9F
+P09F
+PH9G
+PP9G
+\$0H
+t$8H
+\$02
+t$8H
+P 9F
+P89G
+P@9G
+u!A9F
+D$`L
+\$@H
+t$HH
+|$PH
+P(9F
+P09F
+PH9G
+PP9G
+u!A9F
+D$`L
+\$@H
+t$HH
+|$PH
+VWAVH
+\$hL
+D$`L
+\$hH
+0A^_^
+A'H;
+A'H;
+\$(H
+D$ E3
+\$@H
+\$@H
+t~A9@
+D$`M
+D$(B
+\$@H
+\$@H
+ud9B
+\$ B
+ttA9@
+unA9@
+D$`M
+D$ B
+\$@H
+\$@H
+\$@H
+t$HA
+D$XH
+\$@H
+t$HH
+s*H+
+'w'H
+s*H+
+'w'H
+L$ L
+USVWATAUAVAWH
+EHH;
+EHH;
+uHL+
+s^H+
+sZH+
+xA_A^A]A\_^[]
+)t$0H
+P89F
+P@9F
+\$PH
+(t$0H
+)t$0H
+PH9F
+PP9F
+\$PH
+(t$0H
+P89G
+P@9G
+\$0H
+l$8H
+t$@H
+PH9G
+PP9G
+\$0H
+l$8H
+t$@H
+P89G
+P@9G
+\$0H
+\$0H
+PH9G
+PP9G
+\$0H
+\$0H
+D$Xf
+D$xR
+D$|\
+D$XH+
+T$(I
+D$0H
+T$(L+
+T$(H
+D$8L+
+D$(H
+t$8H
+D$PL+
+D$@H
+\$`H
+\$`H
+\$`H
+\$`H
+VWAWH
+\$hH
+l$pA
+L$8A
+D$8H
+t>HcO
+D$8H
+t>HcO
+\$hH
+l$pH
+@A__^
+\$@H
+\$@H
+\$@H
+\$@H
+\$HH
+\$@H
+\$HH
+\$HH
+SVWATAVH
+D$ L
+|$P3
+L$ E3
+L$(L
+T$(A
+L$ A
+l$(L
+l$XE3
+l$XH
+|$PD;
+L$ E3
+D$ A
+`A^A\_^[
+SVWATAVH
+D$ L
+|$P3
+L$ E3
+L$(L
+T$(A
+L$ A
+l$(L
+l$XE3
+l$XH
+|$PD;
+L$ E3
+D$ A
+`A^A\_^[
+YC H
++C,Lc
+\$8H
+t$@H
+YC H
++C,Lc
+\$8H
+t$@H
+|$ AVH
+D$@M
+Lc\$@L
+HcT$@I
+L$@H
+\$HH
+t$PA
+l$ L
+VWATAVAWH
+l$PH;
+}xIi
+D$`H
+l$hH
+\$XH
+ A_A^A\_^
+l$ L
+VWATAVAWH
+l$PH;
+}xIi
+D$`H
+l$hH
+\$XH
+ A_A^A\_^
+t$8H
+t$8H
+LK8H
+DC8D
+LK8H
+DC8D
+l$`H
+|$pA
+)t$@
+)|$0f
+)D$ 
+t$hE
+D9C(D
+(D$ D
+(|$0
+(t$@L
+t$xH
+|$pH
+l$`D
+~DE3
+LK8H
+l$`H
+|$pA
+)t$@
+)|$0f
+)D$ 
+t$hE
+D9C(D
+(D$ D
+(|$0
+(t$@L
+t$xH
+|$pH
+l$`D
+~DE3
+LK8H
++C,D;
+}cIc
+K0Hc
++C,D;
+D;[,|_Ic
+K0Hc
+D;[,}
+\$03
+t$8H
++C,D;
+}cIc
+K0Hc
++C,D;
+D;[,|_Ic
+K0Hc
+D;[,}
+\$03
+t$8H
+\$8L
+D$0H
+|$@H
+T$0A
+\$8L
+D$0H
+|$@H
+T$0A
+|$ AVH
+T$@A
+D$@H
+L$@M
+D$ H
+t$PH
+|$ AVH
+T$@A
+D$@H
+L$@M
+D$ H
+t$PH
+t$ L
+WATAUAVAWH
+)t$PH
+)|$@
+	} HcF
+D$(L
+T$ I
+(t$PL
+\$`I
+(|$@I
+A_A^A]A\_
+t$ L
+WATAUAVAWH
+)t$@H
+)|$0
+tIHcE
+T$(I
+(t$@L
+\$PI
+(|$0I
+A_A^A]A\_
+ATAVAWH
+D$ D
+\$@H
+D$0H
+|$4H
+A_A^A\
+\$0H
+|$@3
+\$0H
+\$0H
+|$@3
+\$0H
+t$ WH
+\$HH
+T$ H
+L$@L
+D$ H
+\$HH
+t$ WH
+\$HH
+T$ H
+L$@L
+D$ H
+\$HH
+\$ 3
+\$0H
+\$0H
+\$@H
+)t$ 
+(t$ H
+L$ A
+VWATAVAWH
+)t$0H
+)|$ 
+HcT$pH
+t5HcT$p
+\$xH
+(t$0
+(|$ H
+@A_A^A\_^
+}	E3
+)t$ 
+(t$ H
+(t$ H
+(t$ H
+x AVH
+(t$pL
+(|$`I
+)t$p
+)|$`D
+)D$PD
+)L$@D
+)T$0D
+)\$ 
+(\$ D
+(T$0L
+(D$P@
+(|$`
+(t$pD
+(L$@H
+)t$ 
+(t$ H
+D$0H
+T$83
+L$ H
+D$8H
+D$@H
+D$0H
+SWAVH
+t$ I
+)\$pD
+)d$`D
+)l$PD
+)t$@D
+)|$0
+F fE
+\$ L
+\$ ;
+S fE
+(|$03
+(t$@D
+(l$PD
+(d$`D
+(\$pD
+A^_[
+A^_[
+VWAWH
+\$@L
+t$H;q
+\$@L
+t$HH
+l$PH
+ A__^
+l$PH
+ A__^
+1v7K
+LcD$PA
+T$XM
+\$0H
+l$8H
+t$@H
+@SVATAWH
+l$PH
+|$`3
+l$hD
+l$xL
+|$XE
+t$pA
+}]Hc
+}]Ic
+D$XL
+t$ L
+l$hH
+|$`H
+l$PH
+(A_A\^[
+(A_A\^[
+D$ H
+\$0H
+|$ AVH
+D$@@
+\$0H
+t$8H
+|$HH
+\$0H
+t$@H
+VWAVH
+\$xH
+@A^_^
+\$0H
+l$8H
+t$@H
+\$0H
+t$8H
+t!eH
+L$PH
+\$0H
+l$8H
+t$@H
+\$PH
+uyHc
+uTL+
+\$ UH
+M H1E
+ H3E H3E
+\$HH
+L$0L
+L$(H
+L$ 3
+L$PH
+D$PH
+D$@H
+D$H3
+\$0H
+t$8H
+\$0H
+t$8H
+cAMDD
+entiA
+ineIA
+ntelE
+AuthE
+Genu3
+t(=`
+t!=p
+\$83
+|$@H
+ vJH+
+ffffff
+UWAVH
+\$`I
+A^_]
+l$8H
+\$0H
+VWATAVAWH
+ttIcF
+T$PE3
+D$PD
+\$XH
+l$`H
+ A_A^A\_^
+x ATAVAWH
+l$pH
+D$`A
+F;\8
+F;\8
+t~E3
+D;!|
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+VWAVH
+L$PI
+\$@H
+l$HH
+ A^_^
+L$x3
+\$(H
+L$ H
+l$XH
+t$`H
+D$@H
+H;XXs
+H;xXu9
+\$0H
+D$PH
+D$`Hc
+D$hH
+D$(H
+L$XE3
+D$pL
+D$0H
+D$ H
+T$PI
+D$8H
+D$(H
+T$ H
+\$XH
+t$`H
+\$0H
+t$8H
+|$@H
+WATAUAVAWH
+Y8M+
+l$0H
+|$8;3
+L$0I
+x}~t
+D$(I
+~HI+
+ tDE3
+\$@I
+A_A^A]A\_
+A	H+
+\$0H
+t$8H
+(McH
+L$@I
+L$@;|
+\$0H
+tXLcQ
+t=E3
+9csm
+A - 
+tCHcP
+\$0H
+VWATAVAWH
+L$@H
+l$8L
+T$(H
+\$PI
+A_A^A\_^
+A A+
+B(I9A(
+I A+
+\$0H
+UATAUAVAWH
+?csm
+G - 
+L9g0
+L9` 
+?csm
+G - 
+L9g0
+L9`8
+E;>|
+?csm
+G - 
+|$0D
+D$(H
+Mc&L
+O0HcQ
+G0Hc	H
+D$XH
+D$PH
+D$@I
+D$8H
+D$0L
+d$(H
+D9c t
+HcK H
+D9c t
+HcC H
+L$@I
+|$8H
+L9`8tA
+D8eo
+D$8M
+D$0H
+t$(H
+A_A^A]A\]
+UVWATAUAVAWH
+>MOC
+>RCC
+D$0L
+l$(I
+D$`L
+|$0E
+D$(E
+;L$`
+D$HH
+l$@H
+D$8H
+L$(H
+;L$`
+pA_A^A]A\_^]
+WATAUAVAWH
+9

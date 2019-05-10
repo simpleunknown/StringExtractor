@@ -1,0 +1,1390 @@
+!This program cannot be run in DOS mode.
+Rich
+.rdata
+@.rsrc
+RSDS2;"(-)OJ
+G:\autobuilder\builds\ex-jay-10.7.2-msclient\jay\10.7.2\src\avt\ng\client\locale\release\ngmsgs.pdb
+	"((
+%1!s!
+%1!S!
+Invalid argument list for message number %1!u!
+Cannot format message for message number %1!u!
+Logging started
+Logging shutdown
+Error(%1!lu!): Failed to open device %2
+VPN connection was initiated by the Window's GINA
+VPN connection monitor started successfully
+VPN connection monitor launch failed. %nError 0x%1!08X!: %2
+VPN connection monitor is already running.
+VPN connection monitor can not locate the network connection to be monitored.
+VPN connection monitor is not able to add an icon to the taskbar notification area.
+VPN connection monitor is stopping.
+VPN connection monitor display message: "%1"
+Unable to open registry key: "%1" %nError 0x%2!08X!: %3
+Error(%1!lu!): %2 failed, %3
+Error(%1!08x!): %2 failed, %3
+Error(%1!08x!): Connection to %2 failed
+Set Netbios broadcast filtering: %1!lu!
+Set VPN state from %1 to %2, reason %3!08x!
+VPN cleanup
+Flush NDIS send queue, %1!lu! packets pending
+Canceling pending connect
+Add %1 to IP address table
+Delete %1 from IP address table
+Disconnect event signaled, type %1
+Error(%1!08x!): signaled in error event handler
+Driver unloaded
+Outgoing call initiated by user
+Outgoing call closed by user
+Incoming call signaled, status 0x%1!08x!
+Signal the user that the call has completed
+Signal the user that the tunnel has closed
+Add %1 for VIP %2 to IP redirection table
+Delete %1 for VIP %2 from IP redirection table
+Add %1 for VIP %2 to system route table
+Add device %1, IP %2
+Delete device %1, IP %2
+Add IP redirection rule, %1 (%2, %3)
+Add %1 for VIP %2 to IP redirection table (deferred)
+VPN create tunnel %1
+Add host redirection rule, %1: %2
+Add domain redirection rule, %1: %2
+Dns query for %1 to %2, matches VPN %3 name and server, Allow
+Wins query for %1 to %2, matches VPN %3 name and server, Allow
+Dns query for %1 to %2, matches VPN %3 name only, Discard
+Wins query for %1 to %2, matches VPN %3 name only, Discard
+Dns query for %1 to %2, matches VPN %3 server only, Allow
+Wins query for %1 to %2, matches VPN %3 server only, Allow
+Dns query for %1 to %2, matches no VPN, Allow
+Wins query for %1 to %2, matches no VPN, Allow
+Dns query for %1 to %2, matches VPN %3 server only, Discard
+Wins query for %1 to %2, matches VPN %3 server only, Discard
+Create IP filter rules, %1!lu! read, %1!lu! added  
+Create host filter rules, %1!lu! read, %1!lu! added  
+Create domain filter rules, %1!lu! read, %1!lu! added  
+Tunnel send complete, ID %1!u!, %2!lu! bytes sent, %3 elapse time, status %4!x!  
+Add EndPoint redirection rule, %1 (%2)
+Protocol message %1 received, size  %2!lu!%3, %4 
+Extended message reassembly: ID %1!u!, Fragment %2!u!, FragmentSize %3!u!, Offset %4!u!, TotalSize %5!u!, Complete %6!u!
+Discarding protocol message %1: the message is not supported by this client.
+Set protocol state from %1 to %2
+Start the protocol engine.
+Protocol negotiation complete.
+Start protocol resumption.
+Stop the protocol engine.
+Create user authentication prompt response message, fields %1!lu!
+Resume TCP flow %1->%2, State: %3
+Realm %1!lu!: '%2', Auth: %3, Visible: %4!c!, Default: %5!c!
+ClientConfig: IP: %1, Mode: %2, Flags: 0x%3!04x!, InactivityTimout: %4!lu! secs
+ClientConfig: DnsServer %1!lu!: %2
+ClientConfig: WinsServer %1!lu!: %2
+ClientConfig: ExcludeIp %1!lu!: %2
+ClientConfig: DomainSuffix %1!lu!: %2
+ClientConfig: RoutingRule %1!lu!: %2
+SHUTDOWN(%1!lu!): %2
+ALERT(%1!lu!): %2
+Error(%1!lu!): Failed to set filter state
+Error(%1!lu!): Failed to set exclusion state
+Error(%1!lu!): Failed to add rules to the ip address rule list
+Error(%1!lu!): Failed to delete rules from the ip address rule list
+Error(%1!lu!): Failed to flush ip hash table
+Error(%1!lu!): Failed to add route to the route rule list
+Error(%1!lu!): Failed to purge route rules
+Error(%1!lu!): Failed to start service %S
+Error(%1!lu!): GetQueuedCompletionStatus failed
+Worker thread 0x%1!x! shutdown 
+Error(%1!lu!): Worker threads shutdown failed 
+Error(%1!lu!): Worker threads cleanup failed 
+%1: allocated %2!lu!, freed %3!lu! 
+Discarding PPP packet, protocol 0x%1!04x!, code %2!lu! 
+Received a PPP Terminate-Request
+Sent a PPP Terminate-Reply
+Sent a PPP Terminate-Reply
+Error parsing an IP packet, the input buffer is too small, size %1!lu!
+Dns response for %1, answers %2!lu!, NS %3!lu!, additional %4!lu!  
+Dns answer %1!lu!: %2->%3
+Dns additional %1!lu!: %2->%3
+Wins response %1!lu!: %2->%3
+Sent DHCP ACK, domain suffix %1
+Error(%1!lu!): Failed to create DHCP ACK
+%1: if %2, dest %3, mask %4, gw %5, metric %6!lu! 
+Error(%1!lu!): Failed to add name server route.
+Loading the static redirection rules from the registry
+Loading the protocol generated redirection rules
+Error(%1!lu!): Failed to load the redirection rules
+Setting the IP exclusion list
+Setting IP exclusion list to system defaults
+Error(%1!lu!): Failed to open the certificate store
+Error(%1!lu!): Could not find the certificate '%2'
+Error(%1!lu!): Failed to acquire a credentials handle
+Error(%1!lu!): SSL negotiation failed
+Ssl stream sizes: Header %1!lu!, Trailer %2!lu!, MaxMsg %3!lu!, Buffers %4!lu!, BlockSize %5!lu! 
+Error(%1!lu!): SSL disconnect failed
+Error(%1!lu!): Failed to validate certificate for server %2
+Ssl supported algorithm %1!lu!: %2
+Ssl supported algorithm %1!lu!: 0x%2!x!
+Security package: %1, %2
+SSL key info: signature algorithm %1, encryption algorithm %2, key length %3!lu!
+%1 completed, status 0x%2!lu!
+%1 completed, status 0x%2!08x!
+Tunnel connection %1->%2 completed, status 0x%3!08x!
+Error(%1!lu!): %2 failed, %3
+Error(%1!08x!): %2 failed, %3
+RAS realm query complete, realms written %1!lu!, bytes written %2!lu!
+Tunnel closed
+Begin RAS negotiation
+End RAS negotiation
+Using interface '%1', speed %2!lu!
+RAS pipe closed
+SSL negotiation, received %1!lu! bytes
+SSL negotiation, send %1!lu! bytes
+Begin proxy negotiation
+End proxy negotiation
+Proxy negotiation, received %1!lu! bytes
+Proxy negotiation, send %1!lu! bytes
+Begin SSL negotiation
+End SSL negotiation
+Begin tunnel negotiation
+End tunnel negotiation
+Begin PPP negotiation
+End PPP negotiation
+Begin tunnel resumption
+End tunnel resumption
+Processing the VPN state transition, from %1 to %2, reason 0x%3!08x!
+Start tunnel resumption, attempt %1!lu!, delay %2!lu! ms, time remaining %3!lu! ms
+Receive RasIpcCmd Hello, server %1
+Receive RasIpcCmd ValidateCertificateResponse, certificate accepted
+Receive RasIpcCmd ValidateCertificateResponse, certificate rejected
+Receive RasIpcCmd RealmQueryRequest, server %1
+Receive RasIpcCmd ProxyAuthenticationPromptResponse
+Receive RasIpcCmd TunnelAuthenticationPromptResponse
+Error: Invalid IPC command (%1!lu!)
+Send RasIpcCmd TunnelAuthenticationPromptRequest, prompts %1!lu!, size %2!lu!
+Create user cache entry for %1
+Use existing user cache entry for %1
+Set tunnel state from %1 to %2
+The Microsoft Internet Connection Firewall is not enabled for the %1 connection.
+Selected realm '%1', authentication method '%2'
+HCT automation enabled, reading settings from %1
+Establishing tunnel connection to %1
+The software upgrade thread has started.
+The software upgrade thread has shut down.
+The software upgrade event for %1 has completed successfully.
+Dns request to %1 for %2, Type %3!u!
+Wins request to %1 for %2
+The owner of this Web activated tunnel is no longer active, closing the tunnel.
+No setting to disable the Microsoft Internet Connection Firewall for %1.
+Start keep-alive timer, interval %1!lu! seconds.
+Stop keep-alive timer
+Send keep-alive message
+Start RTT timer, interval %1!lu! seconds.
+Stop RTT timer
+RTT time: %1 secs
+Restarted the Dnscache servce, elapse time %1 secs.
+StaticRoutingRule %1!lu!: %2
+Send connection status message to VPN monitor, msg 0x%1!08x!, wparam 0x%2!08x!, lparam 0x%3!08x!
+Set prerequisite RAS connection to "%1"
+Tcp %1->%2, Size %3!lu!, Flags %4, Seq %5!lu!-%6!lu!, Ack %7!lu!
+Udp %1->%2, Size %3!lu!
+Icmp %1->%2, Size %3!lu!, Type %4!lu!, Code %5!lu!
+Ip %1->%2, Size %3!lu!, Protocol %4!lu!, Fragment %5!c!
+Error parsing IP: %1->%2, Size %3!lu!, Protocol %4!lu!, Fragment %5!c!
+Discarding packet %1->%2, protocol %3!lu!, size %4!lu!, invalid source IP
+Discarding netbios broadcast datagram %1->%2, size %3!lu!
+VPN monitor received connection status message, msg 0x%1!08x!, wparam 0x%2!08x!, lparam 0x%3!08x!
+An unexpected error was encountered encoding data to be sent to the remote server.
+An unexpected error was returned or encountered processing data received from the remote server.
+Remote network can not be accessed.  Network access is currentlly set to "Work Offline."
+The VPN client version is: %1
+RasCustomDialDlg invoked. Entry="%1" %nPhone Book="%2"
+RasCustomDialDlg completed successfully.
+RasCustomDial asynchronous request; Entry="%1"; %nPhone Book="%2"
+RasCustomDial synchronous request; Entry="%1"; %nPhone Book="%2"
+RasCustomDial synchronous request completed without errors.
+DNS look up of "%1" returned IP: %2
+Connecting to prerequisite connection "%1"
+Connection to prerequisite connection "%1" succeeded.
+No Internet access server detected.
+Detected Internet access server: "%1"
+System RasDial initiated.
+Establishing communication pipe %1 with the VPN Manager service.
+Closing communication pipe %1 with the VPN Manager service.
+Instructing the VPN Manager service to establish a secure tunnel with: %1:%2!hu!
+The VPN Manager service reports that a secure tunnel has been established.
+The VPN Manager service has requested server certificate validation.
+The VPN Manager service has requested the user be prompted for Internet access credentials.
+The VPN Manager service has requested the user be prompted for extended authentication credentials.
+RAS reports a VPN connected status.
+RAS reports a VPN disconnected status.
+Querying logon groups (realms) for appliance: %1
+Instructing the VPN Manager service to query %1's [%2] logon groups (realms)
+Logon group (realm) query of %1 returned %2!lu! groups.
+%1 complete. %nError 0x%2!08X!: %3
+Communication pipe %1 was established with the VPN Manager service.
+The operating system is  : %1
+VPN Manager request to perform end point control processing.
+Received client settings from the VPN Manager.
+Realm authentication information was successfully cached for realm: "%1"
+No logon server was detected on the appliance. [%1]
+VPN Manager request to inform the user that a software update is available.
+Downloading software update. [Version=%1] [URL=%2]
+Caching "%1" logon group/realm information. [Logon API version: %2!u!]
+Initiating %1
+Launching command script:%nScript: %1%nArguments: %2%nWorking Directory: %3
+Server certificate hash: [%1,INFO]
+Software update is still running. Ignoring tunnel shutdown notification.
+Software update is still running. Ignoring RAS notifications.
+Software update is still running. Ignoring RAS timeout.
+Backup server found. Trying to connect to [%1] server with [%2] realm.
+The HTTP proxy client has been initialized with proxy of %1, and VPN server of %2:%3!hu!.
+The HTTP proxy client will not be used.
+HTTP proxy client process, transition from %1 to %2.
+HTTP proxy client: Read HTTP response header - Available %1!lu!, Processed %2!lu!, HeaderSize %3!lu!.
+HTTP proxy client: Read response body, Needed %1!lu!, Available %2!lu!, Processed %3!lu!, Remaining %4!lu!.
+HTTP proxy client: Read response body chunked, HeaderSize %1!lu!, ChunkSize %2!lu!.
+HTTP proxy client: Read response body chunked, Available %1!lu!, Remaining %2!lu!.
+HTTP proxy client: Read response body chunked, TrailerSize %1!lu!.
+HTTP proxy client: Read response body close, Available %1!lu!, Processed %2!lu!
+The HTTP proxy client has restarted.
+The HTTP proxy client processed connect response, action %1, status %2!08X!
+HTTP proxy client: Parse reponse header, available %1!lu!, processed %2!lu!, headerSize %3!lu! 
+The HTTP proxy client ProxyAuthenticate, state %1, action %2, status %3!08X!.
+Negotiate authentication using method %1, credential state %2
+The HTTP proxy client is authenticating while not impersonating the current user.
+The HTTP proxy client processing ProxyNegotiate, state %1, action %2, status %3!08X.
+PPP Processing server establish state message %1.
+PPP Processing server authentication state message %1.
+PPP processing server NCP state message %1 for protocol %2.
+PPP processing state transition from %1 to %2.
+User inactivity has exceeded the VPN's defined user inactivity timeout, closing the VPN connection.
+The Microsoft Internet Connection Firewall has been diabled for the %1 connection.
+Failed to restarted the Dnscache servce, elapse time %1 secs, error %2!lu!.
+Begin EPC negotiation
+End EPC negotiation
+Receive RasIpcCmd TunnelEpcResponse
+SSL connection info: protocol %1, cipher %2 (%3!lu! bit), hash %4 (%5!lu! bit)
+Set http proxy for '%1' to url '%2'
+Clear http proxy for '%1'
+Send RasIpcCmd SoftwareUpdateRequest, Url '%1', Mandatory %2!lu!
+Send RasIpcCmd ClientSettings, Program '%1', Params '%2', Directory '%3'
+ClientConfig: AddressPool %1
+Receive RasIpcCmd SoftwareUpdateResponse
+Invalid proxy url of '%1' for '%2'
+ClientConfig: RunProgam %1
+ClientConfig: RunDirectory %1
+ClientConfig: RunParameters %1
+ClientConfig: HttpProxy %1
+Interface %1 selected for destination %2, source %3
+Interface %1, '%2', speed %3!lu!
+Discarding WINS request for %1, type %2!lu!
+Discarding DDNS update request
+Discarding SMB mailslot browse, opcode %1!lu!
+WINS request for %1, type %2!lu!
+WINS request for %1, type %2!lu!
+InternetSetOption failed for option %1, error %2!lu!
+(%1) Tunnel identifier for the server is "%2" (read status is %3!lu!, format status is %4!lu!)
+Machine identifier is "%1"
+Machine identifier for this tunnel instance is "%1"
+Activation called on existing connection.
+First activation request.
+First activation for this browser window.
+Last deactivation request, connection closed.
+Last deactivation request, connection failed to close. Error: 0x%1!08X!
+EPC system interrogator: Evaluation of %1 results: %2
+EPC micro-interrogator: Evaluation of [%1] results: %2
+Logon Id [%1]; Logon API version %2!u!
+EPC security zone classification resulted in zone: "%1"
+Performing EPC micro-interrogation.
+Performing EPC system interrogation.
+EPC security zone command recieved: [%1] Zone="%2"
+Retrieving initial authentication request from the logon server.%n["%2", %1]
+Sending authentication request to the logon server.%n["%2", %1]
+Authentication completed successfully.%n["%2", %1]%n[Community: %3]
+Authentication is incomplete.%n["%2", %1]
+EPC security zone command processed. [%1]%nError 0x%2!08X!: %3
+Performing EPC agent provisioning.
+Authentication using client certificate: [%1]
+Set SSPI state from %1 to %2.
+Launched ngdial to prompt the user to re-connect. [Process ID %1!d!]
+Performing system end point interrogation
+Error encountered detecting Internet access server. %nError 0x%1!08X!: %2
+Attempting to connect without an Internet access server.
+Unable to resolve IP address for proxy server: %1 %nError 0x%2!08X!: %3
+Attempting to connect without a security zone classification.
+Error occured launching connection script.%nApplication: %1%nArguments: %2%nWorking Directory: %3%nError 0x%4!08X!: %5
+Failed to cache realm authentication information for realm "%1" failed.%nError 0x%2!08X!: %3
+User has chosen not to install a software update.
+RasHangup ignored for process id %1!lu!.  The exclusive RASHangup feature is enabled for process id %2!lu!
+The exclusive RASHangup feature for "%1" is being enabled for process id %2!lu!
+Could not connect to server [%1]. Trying to connect to backup servers.
+Failed to add rule %1, Error 0x%2!08x!
+The software upgrade thread has failed to start.  The error is %1!u!.
+The software upgrade thread has failed to exit properly.  The error is %1!u!.
+The software upgrade event cannot be processed.  %1 can not be opened %2!u!.
+The software upgrade event cannot be processed for %1.  The error is %2!u!.
+A software update has been started or is in progress.
+Error occured launching command script.%nCommand line: %1%nWorking Directory: %2%nError 0x%3!08X!: %4
+Read WININET Internet connection settings for "%1"
+Your VPN session has expired. You may start a new session or close the VPN program.
+Authentication type not supported.
+RasCustomDialDlg completed with errors. %nError 0x%1!08X!: %2
+RasCustomDial completed with errors. %nError 0x%1!08X!: %2
+RasCustomDial completed with errors. %nError 0x%1!08X!: %2
+DNS look up of "%1" failed. %nError 0x%2!08X!: %3
+RAS has reported an error.%nError 0x%1!08X!: %2%nExtendedError=0x%3!08X!
+Connection to prerequisite connection "%1" failed. %nError 0x%2!08X!: %3
+RasDial failed. %nError 0x%1!08X!: %2
+The VPN Manager service reported an error. %nError 0x%1!08X!: %2
+Unreconized request received from the VPN Manager service.  Command=%1!lu!
+Exceeded maximum wait period for CONNECT/DISCONNECT status from RAS.  Attempts=%1!lu!
+Logon group (realm) query of %1 failed. %nError 0x%2!08X!: %3
+Aborting the open communication pipe %1 request to the VPN Manager service. %nError 0x%2!08X!: %3
+Exceeded maximum attempts (%1!u!) to open the communication pipe %2 with the VPN Manager service.
+Unable to open a communication pipe %1 with the VPN Manager service. %nError 0x%2!08X!: %3
+Error reading VPN Manager service command data.%nRead %1!lu! bytes but was expecting %2!lu! bytes of data for command %3!lu!. %nError 0x%4!08X!: %5
+Error writing VPN Manager service command data.%nWrote %1!lu! bytes but was expecting to write %2!lu! bytes of data for command %3!lu!. %nError 0x%4!08X!: %5
+Internal error: No overlapped I/O pointer. %nError 0x%1!08X!: %2
+Unable to establish tunnel while VPN application (AS32.exe) is running.
+Error encountered during end point control processing.  Unable to determine a security zone.%nError 0x%1!08X!: %2
+User has chosen not to install a REQUIRED software update.
+Software update download failed.%nURL=%1%nError 0x%2!08X!: %3
+Unable to launch software update reconnect utility. [%1]%nError 0x%2!08X!: %3
+An error has occurred while performing software update.%nError 0x%1!08X!: %2
+Software update notification was received but the user is not logged into the system.%nPostponing the user notification until after the user logs into the system.
+Could not connect to any backup servers. Aborting logon sequence.
+HTTP proxy client process error, no dispatch table function for the %1 state.
+HTTP proxy client process error, transition from %1 to %2 is not allowed.
+The HTTP proxy client has recieved a header that is to large.
+Could not find or create phonebook directory. Error: 0x%1!08X!
+Could not create Phone Book "%1"
+Could not create settings object to manage Phone Book "%1".
+Could not create settings for phonebook. Error: 0x%1!08X!
+Could not save settings for phonebook. Error: 0x%1!08X!
+Activation failed because there is no phone book.
+Activation failed because there is no AuthCredential or EndpointAddress.
+No logon ID was found.
+Error processing response from the logon server. [%1]%nStatus %2!i!; Error 0x%3!08X!: %4
+EPC micro-interrogator failed. [%1]%nError 0x%2!08X!: %3
+EPC system interrogation failed. [%1]%nError 0x%2!08X!: %3
+An I/O error occurred communicating with the logon server. [%1]%nError 0x%2!08X!: %3
+EPC security zone error. Unrecognized command: [%1] Zone="%2"
+Authentication Failed.%n["%2", %1]
+Error encountered with a logon server authentication request. [%1]%nError 0x%2!08X!: %3
+EPC system interrogation policy indicates the user is to be disconnected from the remote network.%nIssuing a disconnect for the "%1" network.
+Unable to connect to the logon server. [%1]%nError 0x%2!08X!: %3
+EPC agent provisioning failed. [%1]%nError 0x%2!08X!: %3
+Error occurred issuing command: %1%nError 0x%2!08X!: %3
+VPN connection monitor ended with an error. %nError 0x%1!08X!: %2
+System end point interrogation failed. %nError 0x%1!08X!: %2
+Unable to determine if the Microsoft Internet Connection Firewall is running because the phone book entry for this connection could not be determined.  
+Unable to disable the Microsoft Internet Connection Firewall for the %1 connection.  The error is %2!u!.
+Unable to establish the VPN connection.  The VPN server may be unreachable, or security parameters may not be configured properly for this connection.
+No VPN server has been configured.
+The Graphical User Interface (GUI) has been disabled, and a request to display, or prompt, for information was requested.%nThe -gui parameter enables the Graphical User Interface.
+Sofwate update required.%nYou must update the client software in order to access the remote network.
+A mandatory software update is required but the user is not logged into the operating system.%nAccess to the remote network is not allowed.
+No login group (realm) has been configured.
+Unable to establish the VPN connection.  The login group (realm) selected does not exist on the server.
+Unable to establish the VPN connection.  The server returned an error response and refused the connection.
+Aventail Connect Tunnel has detected new End point libraries. Please relogin to load the new libraries.
+The HTTP proxy client has failed to impersonate the current user. The error is 0x%4!08X!: %1.
+PPP Parsing error.  The buffer is to small.  Expected %1!lu!, Actual %2!lu!.
+PPP parsing error, An invalid protocol (%1!lu!)has been specified.
+PPP parsing error, An invalid control code (%1!lu!) has been specified.
+PPP parsing error, the message size is to large.  Available %1!lu!, Actual %2!lu!
+PPP processing server establish state, error need CreateConfigureNak.
+PPP Processing error.  Received invalid message received %1 while in %2.
+PPP state transition error, can't transit from %1, to %2.
+PPP parsing error, Invalid HDLC Header.
+Error parsing protocol header: buffer too small 
+Error parsing protocol header: version mismatch 
+Error parsing protocol header: invalid message type  
+Error parsing protocol header: message size exceeds buffer size  
+Error reassembling extended message: data received exceeds message size
+Error reassembling extended message: invalid message type
+Error reassembling extended message: can't find message ID 
+Error processing protocol message: invalid message for current state
+The requested authentication method is not supported by the selected login group
+An invalid authentication request was received from the server
+An invalid Team ID was received from the server
+The user's authentication credentials have been rejected by the server
+The server encountered an error communicating with the authentication system
+The client protocol version is not supported by the server
+An invalid or unsupported protocol message was sent to the server
+A server operation has exceeded it's timeout value
+The server was unable to allocate a client IP address
+The user is not authorization to access a requested resource
+The server encountered an error communicating with the authorization system
+General server system failure
+The client version is not supported by the server
+The server was unable to assign a client IP address due to a fatal IP address conflict
+The requested login group does not exist
+The user cache entry could not be created
+The server has request the client resume the tunnel
+No connection was specified.
+No logon ID was found.
+Access denied due to local system limitations.
+Access denied. The required system capabilities are not present, enabled, or current.
+An error was encountered decoding the data received from the Logon Server.
+An error was encountered encoding data to be sent to the Logon Server.
+Your certificate is invalid. Contact your helpdesk for more information.
+	"((
+%1!s!
+%1!S!
+Invalid argument list for message number %1!u!
+Cannot format message for message number %1!u!
+Logging started
+Logging shutdown
+Error(%1!lu!): Failed to open device %2
+VPN connection was initiated by the Window's GINA
+VPN connection monitor started successfully
+VPN connection monitor launch failed. %nError 0x%1!08X!: %2
+VPN connection monitor is already running.
+VPN connection monitor can not locate the network connection to be monitored.
+VPN connection monitor is not able to add an icon to the taskbar notification area.
+VPN connection monitor is stopping.
+VPN connection monitor display message: "%1"
+Unable to open registry key: "%1" %nError 0x%2!08X!: %3
+Error(%1!lu!): %2 failed, %3
+Error(%1!08x!): %2 failed, %3
+Error(%1!08x!): Connection to %2 failed
+Set Netbios broadcast filtering: %1!lu!
+Set VPN state from %1 to %2, reason %3!08x!
+VPN cleanup
+Flush NDIS send queue, %1!lu! packets pending
+Canceling pending connect
+Add %1 to IP address table
+Delete %1 from IP address table
+Disconnect event signaled, type %1
+Error(%1!08x!): signaled in error event handler
+Driver unloaded
+Outgoing call initiated by user
+Outgoing call closed by user
+Incoming call signaled, status 0x%1!08x!
+Signal the user that the call has completed
+Signal the user that the tunnel has closed
+Add %1 for VIP %2 to IP redirection table
+Delete %1 for VIP %2 from IP redirection table
+Add %1 for VIP %2 to system route table
+Add device %1, IP %2
+Delete device %1, IP %2
+Add IP redirection rule, %1 (%2, %3)
+Add %1 for VIP %2 to IP redirection table (deferred)
+VPN create tunnel %1
+Add host redirection rule, %1: %2
+Add domain redirection rule, %1: %2
+Dns query for %1 to %2, matches VPN %3 name and server, Allow
+Wins query for %1 to %2, matches VPN %3 name and server, Allow
+Dns query for %1 to %2, matches VPN %3 name only, Discard
+Wins query for %1 to %2, matches VPN %3 name only, Discard
+Dns query for %1 to %2, matches VPN %3 server only, Allow
+Wins query for %1 to %2, matches VPN %3 server only, Allow
+Dns query for %1 to %2, matches no VPN, Allow
+Wins query for %1 to %2, matches no VPN, Allow
+Dns query for %1 to %2, matches VPN %3 server only, Discard
+Wins query for %1 to %2, matches VPN %3 server only, Discard
+Create IP filter rules, %1!lu! read, %1!lu! added  
+Create host filter rules, %1!lu! read, %1!lu! added  
+Create domain filter rules, %1!lu! read, %1!lu! added  
+Tunnel send complete, ID %1!u!, %2!lu! bytes sent, %3 elapse time, status %4!x!  
+Add EndPoint redirection rule, %1 (%2)
+Protocol message %1 received, size  %2!lu!%3, %4 
+Extended message reassembly: ID %1!u!, Fragment %2!u!, FragmentSize %3!u!, Offset %4!u!, TotalSize %5!u!, Complete %6!u!
+Discarding protocol message %1: the message is not supported by this client.
+Set protocol state from %1 to %2
+Start the protocol engine.
+Protocol negotiation complete.
+Start protocol resumption.
+Stop the protocol engine.
+Create user authentication prompt response message, fields %1!lu!
+Resume TCP flow %1->%2, State: %3
+Realm %1!lu!: '%2', Auth: %3, Visible: %4!c!, Default: %5!c!
+ClientConfig: IP: %1, Mode: %2, Flags: 0x%3!04x!, InactivityTimout: %4!lu! secs
+ClientConfig: DnsServer %1!lu!: %2
+ClientConfig: WinsServer %1!lu!: %2
+ClientConfig: ExcludeIp %1!lu!: %2
+ClientConfig: DomainSuffix %1!lu!: %2
+ClientConfig: RoutingRule %1!lu!: %2
+SHUTDOWN(%1!lu!): %2
+ALERT(%1!lu!): %2
+Error(%1!lu!): Failed to set filter state
+Error(%1!lu!): Failed to set exclusion state
+Error(%1!lu!): Failed to add rules to the ip address rule list
+Error(%1!lu!): Failed to delete rules from the ip address rule list
+Error(%1!lu!): Failed to flush ip hash table
+Error(%1!lu!): Failed to add route to the route rule list
+Error(%1!lu!): Failed to purge route rules
+Error(%1!lu!): Failed to start service %S
+Error(%1!lu!): GetQueuedCompletionStatus failed
+Worker thread 0x%1!x! shutdown 
+Error(%1!lu!): Worker threads shutdown failed 
+Error(%1!lu!): Worker threads cleanup failed 
+%1: allocated %2!lu!, freed %3!lu! 
+Discarding PPP packet, protocol 0x%1!04x!, code %2!lu! 
+Received a PPP Terminate-Request
+Sent a PPP Terminate-Reply
+Sent a PPP Terminate-Reply
+Error parsing an IP packet, the input buffer is too small, size %1!lu!
+Dns response for %1, answers %2!lu!, NS %3!lu!, additional %4!lu!  
+Dns answer %1!lu!: %2->%3
+Dns additional %1!lu!: %2->%3
+Wins response %1!lu!: %2->%3
+Sent DHCP ACK, domain suffix %1
+Error(%1!lu!): Failed to create DHCP ACK
+%1: if %2, dest %3, mask %4, gw %5, metric %6!lu! 
+Error(%1!lu!): Failed to add name server route.
+Loading the static redirection rules from the registry
+Loading the protocol generated redirection rules
+Error(%1!lu!): Failed to load the redirection rules
+Setting the IP exclusion list
+Setting IP exclusion list to system defaults
+Error(%1!lu!): Failed to open the certificate store
+Error(%1!lu!): Could not find the certificate '%2'
+Error(%1!lu!): Failed to acquire a credentials handle
+Error(%1!lu!): SSL negotiation failed
+Ssl stream sizes: Header %1!lu!, Trailer %2!lu!, MaxMsg %3!lu!, Buffers %4!lu!, BlockSize %5!lu! 
+Error(%1!lu!): SSL disconnect failed
+Error(%1!lu!): Failed to validate certificate for server %2
+Ssl supported algorithm %1!lu!: %2
+Ssl supported algorithm %1!lu!: 0x%2!x!
+Security package: %1, %2
+SSL key info: signature algorithm %1, encryption algorithm %2, key length %3!lu!
+%1 completed, status 0x%2!lu!
+%1 completed, status 0x%2!08x!
+Tunnel connection %1->%2 completed, status 0x%3!08x!
+Error(%1!lu!): %2 failed, %3
+Error(%1!08x!): %2 failed, %3
+RAS realm query complete, realms written %1!lu!, bytes written %2!lu!
+Tunnel closed
+Begin RAS negotiation
+End RAS negotiation
+Using interface '%1', speed %2!lu!
+RAS pipe closed
+SSL negotiation, received %1!lu! bytes
+SSL negotiation, send %1!lu! bytes
+Begin proxy negotiation
+End proxy negotiation
+Proxy negotiation, received %1!lu! bytes
+Proxy negotiation, send %1!lu! bytes
+Begin SSL negotiation
+End SSL negotiation
+Begin tunnel negotiation
+End tunnel negotiation
+Begin PPP negotiation
+End PPP negotiation
+Begin tunnel resumption
+End tunnel resumption
+Processing the VPN state transition, from %1 to %2, reason 0x%3!08x!
+Start tunnel resumption, attempt %1!lu!, delay %2!lu! ms, time remaining %3!lu! ms
+Receive RasIpcCmd Hello, server %1
+Receive RasIpcCmd ValidateCertificateResponse, certificate accepted
+Receive RasIpcCmd ValidateCertificateResponse, certificate rejected
+Receive RasIpcCmd RealmQueryRequest, server %1
+Receive RasIpcCmd ProxyAuthenticationPromptResponse
+Receive RasIpcCmd TunnelAuthenticationPromptResponse
+Error: Invalid IPC command (%1!lu!)
+Send RasIpcCmd TunnelAuthenticationPromptRequest, prompts %1!lu!, size %2!lu!
+Create user cache entry for %1
+Use existing user cache entry for %1
+Set tunnel state from %1 to %2
+The Microsoft Internet Connection Firewall is not enabled for the %1 connection.
+Selected realm '%1', authentication method '%2'
+HCT automation enabled, reading settings from %1
+Establishing tunnel connection to %1
+The software upgrade thread has started.
+The software upgrade thread has shut down.
+The software upgrade event for %1 has completed successfully.
+Dns request to %1 for %2, Type %3!u!
+Wins request to %1 for %2
+The owner of this Web activated tunnel is no longer active, closing the tunnel.
+No setting to disable the Microsoft Internet Connection Firewall for %1.
+Start keep-alive timer, interval %1!lu! seconds.
+Stop keep-alive timer
+Send keep-alive message
+Start RTT timer, interval %1!lu! seconds.
+Stop RTT timer
+RTT time: %1 secs
+Restarted the Dnscache servce, elapse time %1 secs.
+StaticRoutingRule %1!lu!: %2
+Send connection status message to VPN monitor, msg 0x%1!08x!, wparam 0x%2!08x!, lparam 0x%3!08x!
+Set prerequisite RAS connection to "%1"
+Tcp %1->%2, Size %3!lu!, Flags %4, Seq %5!lu!-%6!lu!, Ack %7!lu!
+Udp %1->%2, Size %3!lu!
+Icmp %1->%2, Size %3!lu!, Type %4!lu!, Code %5!lu!
+Ip %1->%2, Size %3!lu!, Protocol %4!lu!, Fragment %5!c!
+Error parsing IP: %1->%2, Size %3!lu!, Protocol %4!lu!, Fragment %5!c!
+Discarding packet %1->%2, protocol %3!lu!, size %4!lu!, invalid source IP
+Discarding netbios broadcast datagram %1->%2, size %3!lu!
+VPN monitor received connection status message, msg 0x%1!08x!, wparam 0x%2!08x!, lparam 0x%3!08x!
+An unexpected error was encountered encoding data to be sent to the remote server.
+An unexpected error was returned or encountered processing data received from the remote server.
+Remote network can not be accessed.  Network access is currentlly set to "Work Offline."
+The VPN client version is: %1
+RasCustomDialDlg invoked. Entry="%1" %nPhone Book="%2"
+RasCustomDialDlg completed successfully.
+RasCustomDial asynchronous request; Entry="%1"; %nPhone Book="%2"
+RasCustomDial synchronous request; Entry="%1"; %nPhone Book="%2"
+RasCustomDial synchronous request completed without errors.
+DNS look up of "%1" returned IP: %2
+Connecting to prerequisite connection "%1"
+Connection to prerequisite connection "%1" succeeded.
+No Internet access server detected.
+Detected Internet access server: "%1"
+System RasDial initiated.
+Establishing communication pipe %1 with the VPN Manager service.
+Closing communication pipe %1 with the VPN Manager service.
+Instructing the VPN Manager service to establish a secure tunnel with: %1:%2!hu!
+The VPN Manager service reports that a secure tunnel has been established.
+The VPN Manager service has requested server certificate validation.
+The VPN Manager service has requested the user be prompted for Internet access credentials.
+The VPN Manager service has requested the user be prompted for extended authentication credentials.
+RAS reports a VPN connected status.
+RAS reports a VPN disconnected status.
+Querying logon groups (realms) for appliance: %1
+Instructing the VPN Manager service to query %1's [%2] logon groups (realms)
+Logon group (realm) query of %1 returned %2!lu! groups.
+%1 complete. %nError 0x%2!08X!: %3
+Communication pipe %1 was established with the VPN Manager service.
+The operating system is  : %1
+VPN Manager request to perform end point control processing.
+Received client settings from the VPN Manager.
+Realm authentication information was successfully cached for realm: "%1"
+No logon server was detected on the appliance. [%1]
+VPN Manager request to inform the user that a software update is available.
+Downloading software update. [Version=%1] [URL=%2]
+Caching "%1" logon group/realm information. [Logon API version: %2!u!]
+Initiating %1
+Launching command script:%nScript: %1%nArguments: %2%nWorking Directory: %3
+Server certificate hash: [%1,INFO]
+Software update is still running. Ignoring tunnel shutdown notification.
+Software update is still running. Ignoring RAS notifications.
+Software update is still running. Ignoring RAS timeout.
+Backup server found. Trying to connect to [%1] server with [%2] realm.
+The HTTP proxy client has been initialized with proxy of %1, and VPN server of %2:%3!hu!.
+The HTTP proxy client will not be used.
+HTTP proxy client process, transition from %1 to %2.
+HTTP proxy client: Read HTTP response header - Available %1!lu!, Processed %2!lu!, HeaderSize %3!lu!.
+HTTP proxy client: Read response body, Needed %1!lu!, Available %2!lu!, Processed %3!lu!, Remaining %4!lu!.
+HTTP proxy client: Read response body chunked, HeaderSize %1!lu!, ChunkSize %2!lu!.
+HTTP proxy client: Read response body chunked, Available %1!lu!, Remaining %2!lu!.
+HTTP proxy client: Read response body chunked, TrailerSize %1!lu!.
+HTTP proxy client: Read response body close, Available %1!lu!, Processed %2!lu!
+The HTTP proxy client has restarted.
+The HTTP proxy client processed connect response, action %1, status %2!08X!
+HTTP proxy client: Parse reponse header, available %1!lu!, processed %2!lu!, headerSize %3!lu! 
+The HTTP proxy client ProxyAuthenticate, state %1, action %2, status %3!08X!.
+Negotiate authentication using method %1, credential state %2
+The HTTP proxy client is authenticating while not impersonating the current user.
+The HTTP proxy client processing ProxyNegotiate, state %1, action %2, status %3!08X.
+PPP Processing server establish state message %1.
+PPP Processing server authentication state message %1.
+PPP processing server NCP state message %1 for protocol %2.
+PPP processing state transition from %1 to %2.
+User inactivity has exceeded the VPN's defined user inactivity timeout, closing the VPN connection.
+The Microsoft Internet Connection Firewall has been diabled for the %1 connection.
+Failed to restarted the Dnscache servce, elapse time %1 secs, error %2!lu!.
+Begin EPC negotiation
+End EPC negotiation
+Receive RasIpcCmd TunnelEpcResponse
+SSL connection info: protocol %1, cipher %2 (%3!lu! bit), hash %4 (%5!lu! bit)
+Set http proxy for '%1' to url '%2'
+Clear http proxy for '%1'
+Send RasIpcCmd SoftwareUpdateRequest, Url '%1', Mandatory %2!lu!
+Send RasIpcCmd ClientSettings, Program '%1', Params '%2', Directory '%3'
+ClientConfig: AddressPool %1
+Receive RasIpcCmd SoftwareUpdateResponse
+Invalid proxy url of '%1' for '%2'
+ClientConfig: RunProgam %1
+ClientConfig: RunDirectory %1
+ClientConfig: RunParameters %1
+ClientConfig: HttpProxy %1
+Interface %1 selected for destination %2, source %3
+Interface %1, '%2', speed %3!lu!
+Discarding WINS request for %1, type %2!lu!
+Discarding DDNS update request
+Discarding SMB mailslot browse, opcode %1!lu!
+WINS request for %1, type %2!lu!
+WINS request for %1, type %2!lu!
+InternetSetOption failed for option %1, error %2!lu!
+(%1) Tunnel identifier for the server is "%2" (read status is %3!lu!, format status is %4!lu!)
+Machine identifier is "%1"
+Machine identifier for this tunnel instance is "%1"
+Activation called on existing connection.
+First activation request.
+First activation for this browser window.
+Last deactivation request, connection closed.
+Last deactivation request, connection failed to close. Error: 0x%1!08X!
+EPC system interrogator: Evaluation of %1 results: %2
+EPC micro-interrogator: Evaluation of [%1] results: %2
+Logon Id [%1]; Logon API version %2!u!
+EPC security zone classification resulted in zone: "%1"
+Performing EPC micro-interrogation.
+Performing EPC system interrogation.
+EPC security zone command recieved: [%1] Zone="%2"
+Retrieving initial authentication request from the logon server.%n["%2", %1]
+Sending authentication request to the logon server.%n["%2", %1]
+Authentication completed successfully.%n["%2", %1]%n[Community: %3]
+Authentication is incomplete.%n["%2", %1]
+EPC security zone command processed. [%1]%nError 0x%2!08X!: %3
+Performing EPC agent provisioning.
+Authentication using client certificate: [%1]
+Set SSPI state from %1 to %2.
+Launched ngdial to prompt the user to re-connect. [Process ID %1!d!]
+Performing system end point interrogation
+Error encountered detecting Internet access server. %nError 0x%1!08X!: %2
+Attempting to connect without an Internet access server.
+Unable to resolve IP address for proxy server: %1 %nError 0x%2!08X!: %3
+Attempting to connect without a security zone classification.
+Error occured launching connection script.%nApplication: %1%nArguments: %2%nWorking Directory: %3%nError 0x%4!08X!: %5
+Failed to cache realm authentication information for realm "%1" failed.%nError 0x%2!08X!: %3
+User has chosen not to install a software update.
+RasHangup ignored for process id %1!lu!.  The exclusive RASHangup feature is enabled for process id %2!lu!
+The exclusive RASHangup feature for "%1" is being enabled for process id %2!lu!
+Could not connect to server [%1]. Trying to connect to backup servers.
+Failed to add rule %1, Error 0x%2!08x!
+The software upgrade thread has failed to start.  The error is %1!u!.
+The software upgrade thread has failed to exit properly.  The error is %1!u!.
+The software upgrade event cannot be processed.  %1 can not be opened %2!u!.
+The software upgrade event cannot be processed for %1.  The error is %2!u!.
+A software update has been started or is in progress.
+Error occured launching command script.%nCommand line: %1%nWorking Directory: %2%nError 0x%3!08X!: %4
+Read WININET Internet connection settings for "%1"
+Your VPN session has expired. You may start a new session or close the VPN program.
+Authentication type not supported.
+RasCustomDialDlg completed with errors. %nError 0x%1!08X!: %2
+RasCustomDial completed with errors. %nError 0x%1!08X!: %2
+RasCustomDial completed with errors. %nError 0x%1!08X!: %2
+DNS look up of "%1" failed. %nError 0x%2!08X!: %3
+RAS has reported an error.%nError 0x%1!08X!: %2%nExtendedError=0x%3!08X!
+Connection to prerequisite connection "%1" failed. %nError 0x%2!08X!: %3
+RasDial failed. %nError 0x%1!08X!: %2
+The VPN Manager service reported an error. %nError 0x%1!08X!: %2
+Unreconized request received from the VPN Manager service.  Command=%1!lu!
+Exceeded maximum wait period for CONNECT/DISCONNECT status from RAS.  Attempts=%1!lu!
+Logon group (realm) query of %1 failed. %nError 0x%2!08X!: %3
+Aborting the open communication pipe %1 request to the VPN Manager service. %nError 0x%2!08X!: %3
+Exceeded maximum attempts (%1!u!) to open the communication pipe %2 with the VPN Manager service.
+Unable to open a communication pipe %1 with the VPN Manager service. %nError 0x%2!08X!: %3
+Error reading VPN Manager service command data.%nRead %1!lu! bytes but was expecting %2!lu! bytes of data for command %3!lu!. %nError 0x%4!08X!: %5
+Error writing VPN Manager service command data.%nWrote %1!lu! bytes but was expecting to write %2!lu! bytes of data for command %3!lu!. %nError 0x%4!08X!: %5
+Internal error: No overlapped I/O pointer. %nError 0x%1!08X!: %2
+Unable to establish tunnel while VPN application (AS32.exe) is running.
+Error encountered during end point control processing.  Unable to determine a security zone.%nError 0x%1!08X!: %2
+User has chosen not to install a REQUIRED software update.
+Software update download failed.%nURL=%1%nError 0x%2!08X!: %3
+Unable to launch software update reconnect utility. [%1]%nError 0x%2!08X!: %3
+An error has occurred while performing software update.%nError 0x%1!08X!: %2
+Software update notification was received but the user is not logged into the system.%nPostponing the user notification until after the user logs into the system.
+Could not connect to any backup servers. Aborting logon sequence.
+HTTP proxy client process error, no dispatch table function for the %1 state.
+HTTP proxy client process error, transition from %1 to %2 is not allowed.
+The HTTP proxy client has recieved a header that is to large.
+Could not find or create phonebook directory. Error: 0x%1!08X!
+Could not create Phone Book "%1"
+Could not create settings object to manage Phone Book "%1".
+Could not create settings for phonebook. Error: 0x%1!08X!
+Could not save settings for phonebook. Error: 0x%1!08X!
+Activation failed because there is no phone book.
+Activation failed because there is no AuthCredential or EndpointAddress.
+No logon ID was found.
+Error processing response from the logon server. [%1]%nStatus %2!i!; Error 0x%3!08X!: %4
+EPC micro-interrogator failed. [%1]%nError 0x%2!08X!: %3
+EPC system interrogation failed. [%1]%nError 0x%2!08X!: %3
+An I/O error occurred communicating with the logon server. [%1]%nError 0x%2!08X!: %3
+EPC security zone error. Unrecognized command: [%1] Zone="%2"
+Authentication Failed.%n["%2", %1]
+Error encountered with a logon server authentication request. [%1]%nError 0x%2!08X!: %3
+EPC system interrogation policy indicates the user is to be disconnected from the remote network.%nIssuing a disconnect for the "%1" network.
+Unable to connect to the logon server. [%1]%nError 0x%2!08X!: %3
+EPC agent provisioning failed. [%1]%nError 0x%2!08X!: %3
+Error occurred issuing command: %1%nError 0x%2!08X!: %3
+VPN connection monitor ended with an error. %nError 0x%1!08X!: %2
+System end point interrogation failed. %nError 0x%1!08X!: %2
+Unable to determine if the Microsoft Internet Connection Firewall is running because the phone book entry for this connection could not be determined.  
+Unable to disable the Microsoft Internet Connection Firewall for the %1 connection.  The error is %2!u!.
+Unable to establish the VPN connection.  The VPN server may be unreachable, or security parameters may not be configured properly for this connection.
+No VPN server has been configured.
+The Graphical User Interface (GUI) has been disabled, and a request to display, or prompt, for information was requested.%nThe -gui parameter enables the Graphical User Interface.
+Sofwate update required.%nYou must update the client software in order to access the remote network.
+A mandatory software update is required but the user is not logged into the operating system.%nAccess to the remote network is not allowed.
+No login group (realm) has been configured.
+Unable to establish the VPN connection.  The login group (realm) selected does not exist on the server.
+Unable to establish the VPN connection.  The server returned an error response and refused the connection.
+Aventail Connect Tunnel has detected new End point libraries. Please relogin to load the new libraries.
+The HTTP proxy client has failed to impersonate the current user. The error is 0x%4!08X!: %1.
+PPP Parsing error.  The buffer is to small.  Expected %1!lu!, Actual %2!lu!.
+PPP parsing error, An invalid protocol (%1!lu!)has been specified.
+PPP parsing error, An invalid control code (%1!lu!) has been specified.
+PPP parsing error, the message size is to large.  Available %1!lu!, Actual %2!lu!
+PPP processing server establish state, error need CreateConfigureNak.
+PPP Processing error.  Received invalid message received %1 while in %2.
+PPP state transition error, can't transit from %1, to %2.
+PPP parsing error, Invalid HDLC Header.
+Error parsing protocol header: buffer too small 
+Error parsing protocol header: version mismatch 
+Error parsing protocol header: invalid message type  
+Error parsing protocol header: message size exceeds buffer size  
+Error reassembling extended message: data received exceeds message size
+Error reassembling extended message: invalid message type
+Error reassembling extended message: can't find message ID 
+Error processing protocol message: invalid message for current state
+The requested authentication method is not supported by the selected login group
+An invalid authentication request was received from the server
+An invalid Team ID was received from the server
+The user's authentication credentials have been rejected by the server
+The server encountered an error communicating with the authentication system
+The client protocol version is not supported by the server
+An invalid or unsupported protocol message was sent to the server
+A server operation has exceeded it's timeout value
+The server was unable to allocate a client IP address
+The user is not authorization to access a requested resource
+The server encountered an error communicating with the authorization system
+General server system failure
+The client version is not supported by the server
+The server was unable to assign a client IP address due to a fatal IP address conflict
+The requested login group does not exist
+The user cache entry could not be created
+The server has request the client resume the tunnel
+No connection was specified.
+No logon ID was found.
+Access denied due to local system limitations.
+Access denied. The required system capabilities are not present, enabled, or current.
+An error was encountered decoding the data received from the Logon Server.
+An error was encountered encoding data to be sent to the Logon Server.
+Your certificate is invalid. Contact your helpdesk for more information.
+	"((
+%1!s!
+%1!S!
+Invalid argument list for message number %1!u!
+Cannot format message for message number %1!u!
+Logging started
+Logging shutdown
+Error(%1!lu!): Failed to open device %2
+VPN connection was initiated by the Window's GINA
+VPN connection monitor started successfully
+VPN connection monitor launch failed. %nError 0x%1!08X!: %2
+VPN connection monitor is already running.
+VPN connection monitor can not locate the network connection to be monitored.
+VPN connection monitor is not able to add an icon to the taskbar notification area.
+VPN connection monitor is stopping.
+VPN connection monitor display message: "%1"
+Unable to open registry key: "%1" %nError 0x%2!08X!: %3
+Error(%1!lu!): %2 failed, %3
+Error(%1!08x!): %2 failed, %3
+Error(%1!08x!): Connection to %2 failed
+Set Netbios broadcast filtering: %1!lu!
+Set VPN state from %1 to %2, reason %3!08x!
+VPN cleanup
+Flush NDIS send queue, %1!lu! packets pending
+Canceling pending connect
+Add %1 to IP address table
+Delete %1 from IP address table
+Disconnect event signaled, type %1
+Error(%1!08x!): signaled in error event handler
+Driver unloaded
+Outgoing call initiated by user
+Outgoing call closed by user
+Incoming call signaled, status 0x%1!08x!
+Signal the user that the call has completed
+Signal the user that the tunnel has closed
+Add %1 for VIP %2 to IP redirection table
+Delete %1 for VIP %2 from IP redirection table
+Add %1 for VIP %2 to system route table
+Add device %1, IP %2
+Delete device %1, IP %2
+Add IP redirection rule, %1 (%2, %3)
+Add %1 for VIP %2 to IP redirection table (deferred)
+VPN create tunnel %1
+Add host redirection rule, %1: %2
+Add domain redirection rule, %1: %2
+Dns query for %1 to %2, matches VPN %3 name and server, Allow
+Wins query for %1 to %2, matches VPN %3 name and server, Allow
+Dns query for %1 to %2, matches VPN %3 name only, Discard
+Wins query for %1 to %2, matches VPN %3 name only, Discard
+Dns query for %1 to %2, matches VPN %3 server only, Allow
+Wins query for %1 to %2, matches VPN %3 server only, Allow
+Dns query for %1 to %2, matches no VPN, Allow
+Wins query for %1 to %2, matches no VPN, Allow
+Dns query for %1 to %2, matches VPN %3 server only, Discard
+Wins query for %1 to %2, matches VPN %3 server only, Discard
+Create IP filter rules, %1!lu! read, %1!lu! added  
+Create host filter rules, %1!lu! read, %1!lu! added  
+Create domain filter rules, %1!lu! read, %1!lu! added  
+Tunnel send complete, ID %1!u!, %2!lu! bytes sent, %3 elapse time, status %4!x!  
+Add EndPoint redirection rule, %1 (%2)
+Protocol message %1 received, size  %2!lu!%3, %4 
+Extended message reassembly: ID %1!u!, Fragment %2!u!, FragmentSize %3!u!, Offset %4!u!, TotalSize %5!u!, Complete %6!u!
+Discarding protocol message %1: the message is not supported by this client.
+Set protocol state from %1 to %2
+Start the protocol engine.
+Protocol negotiation complete.
+Start protocol resumption.
+Stop the protocol engine.
+Create user authentication prompt response message, fields %1!lu!
+Resume TCP flow %1->%2, State: %3
+Realm %1!lu!: '%2', Auth: %3, Visible: %4!c!, Default: %5!c!
+ClientConfig: IP: %1, Mode: %2, Flags: 0x%3!04x!, InactivityTimout: %4!lu! secs
+ClientConfig: DnsServer %1!lu!: %2
+ClientConfig: WinsServer %1!lu!: %2
+ClientConfig: ExcludeIp %1!lu!: %2
+ClientConfig: DomainSuffix %1!lu!: %2
+ClientConfig: RoutingRule %1!lu!: %2
+SHUTDOWN(%1!lu!): %2
+ALERT(%1!lu!): %2
+Error(%1!lu!): Failed to set filter state
+Error(%1!lu!): Failed to set exclusion state
+Error(%1!lu!): Failed to add rules to the ip address rule list
+Error(%1!lu!): Failed to delete rules from the ip address rule list
+Error(%1!lu!): Failed to flush ip hash table
+Error(%1!lu!): Failed to add route to the route rule list
+Error(%1!lu!): Failed to purge route rules
+Error(%1!lu!): Failed to start service %S
+Error(%1!lu!): GetQueuedCompletionStatus failed
+Worker thread 0x%1!x! shutdown 
+Error(%1!lu!): Worker threads shutdown failed 
+Error(%1!lu!): Worker threads cleanup failed 
+%1: allocated %2!lu!, freed %3!lu! 
+Discarding PPP packet, protocol 0x%1!04x!, code %2!lu! 
+Received a PPP Terminate-Request
+Sent a PPP Terminate-Reply
+Sent a PPP Terminate-Reply
+Error parsing an IP packet, the input buffer is too small, size %1!lu!
+Dns response for %1, answers %2!lu!, NS %3!lu!, additional %4!lu!  
+Dns answer %1!lu!: %2->%3
+Dns additional %1!lu!: %2->%3
+Wins response %1!lu!: %2->%3
+Sent DHCP ACK, domain suffix %1
+Error(%1!lu!): Failed to create DHCP ACK
+%1: if %2, dest %3, mask %4, gw %5, metric %6!lu! 
+Error(%1!lu!): Failed to add name server route.
+Loading the static redirection rules from the registry
+Loading the protocol generated redirection rules
+Error(%1!lu!): Failed to load the redirection rules
+Setting the IP exclusion list
+Setting IP exclusion list to system defaults
+Error(%1!lu!): Failed to open the certificate store
+Error(%1!lu!): Could not find the certificate '%2'
+Error(%1!lu!): Failed to acquire a credentials handle
+Error(%1!lu!): SSL negotiation failed
+Ssl stream sizes: Header %1!lu!, Trailer %2!lu!, MaxMsg %3!lu!, Buffers %4!lu!, BlockSize %5!lu! 
+Error(%1!lu!): SSL disconnect failed
+Error(%1!lu!): Failed to validate certificate for server %2
+Ssl supported algorithm %1!lu!: %2
+Ssl supported algorithm %1!lu!: 0x%2!x!
+Security package: %1, %2
+SSL key info: signature algorithm %1, encryption algorithm %2, key length %3!lu!
+%1 completed, status 0x%2!lu!
+%1 completed, status 0x%2!08x!
+Tunnel connection %1->%2 completed, status 0x%3!08x!
+Error(%1!lu!): %2 failed, %3
+Error(%1!08x!): %2 failed, %3
+RAS realm query complete, realms written %1!lu!, bytes written %2!lu!
+Tunnel closed
+Begin RAS negotiation
+End RAS negotiation
+Using interface '%1', speed %2!lu!
+RAS pipe closed
+SSL negotiation, received %1!lu! bytes
+SSL negotiation, send %1!lu! bytes
+Begin proxy negotiation
+End proxy negotiation
+Proxy negotiation, received %1!lu! bytes
+Proxy negotiation, send %1!lu! bytes
+Begin SSL negotiation
+End SSL negotiation
+Begin tunnel negotiation
+End tunnel negotiation
+Begin PPP negotiation
+End PPP negotiation
+Begin tunnel resumption
+End tunnel resumption
+Processing the VPN state transition, from %1 to %2, reason 0x%3!08x!
+Start tunnel resumption, attempt %1!lu!, delay %2!lu! ms, time remaining %3!lu! ms
+Receive RasIpcCmd Hello, server %1
+Receive RasIpcCmd ValidateCertificateResponse, certificate accepted
+Receive RasIpcCmd ValidateCertificateResponse, certificate rejected
+Receive RasIpcCmd RealmQueryRequest, server %1
+Receive RasIpcCmd ProxyAuthenticationPromptResponse
+Receive RasIpcCmd TunnelAuthenticationPromptResponse
+Error: Invalid IPC command (%1!lu!)
+Send RasIpcCmd TunnelAuthenticationPromptRequest, prompts %1!lu!, size %2!lu!
+Create user cache entry for %1
+Use existing user cache entry for %1
+Set tunnel state from %1 to %2
+The Microsoft Internet Connection Firewall is not enabled for the %1 connection.
+Selected realm '%1', authentication method '%2'
+HCT automation enabled, reading settings from %1
+Establishing tunnel connection to %1
+The software upgrade thread has started.
+The software upgrade thread has shut down.
+The software upgrade event for %1 has completed successfully.
+Dns request to %1 for %2, Type %3!u!
+Wins request to %1 for %2
+The owner of this Web activated tunnel is no longer active, closing the tunnel.
+No setting to disable the Microsoft Internet Connection Firewall for %1.
+Start keep-alive timer, interval %1!lu! seconds.
+Stop keep-alive timer
+Send keep-alive message
+Start RTT timer, interval %1!lu! seconds.
+Stop RTT timer
+RTT time: %1 secs
+Restarted the Dnscache servce, elapse time %1 secs.
+StaticRoutingRule %1!lu!: %2
+Send connection status message to VPN monitor, msg 0x%1!08x!, wparam 0x%2!08x!, lparam 0x%3!08x!
+Set prerequisite RAS connection to "%1"
+Tcp %1->%2, Size %3!lu!, Flags %4, Seq %5!lu!-%6!lu!, Ack %7!lu!
+Udp %1->%2, Size %3!lu!
+Icmp %1->%2, Size %3!lu!, Type %4!lu!, Code %5!lu!
+Ip %1->%2, Size %3!lu!, Protocol %4!lu!, Fragment %5!c!
+Error parsing IP: %1->%2, Size %3!lu!, Protocol %4!lu!, Fragment %5!c!
+Discarding packet %1->%2, protocol %3!lu!, size %4!lu!, invalid source IP
+Discarding netbios broadcast datagram %1->%2, size %3!lu!
+VPN monitor received connection status message, msg 0x%1!08x!, wparam 0x%2!08x!, lparam 0x%3!08x!
+An unexpected error was encountered encoding data to be sent to the remote server.
+An unexpected error was returned or encountered processing data received from the remote server.
+Remote network can not be accessed.  Network access is currentlly set to "Work Offline."
+The VPN client version is: %1
+RasCustomDialDlg invoked. Entry="%1" %nPhone Book="%2"
+RasCustomDialDlg completed successfully.
+RasCustomDial asynchronous request; Entry="%1"; %nPhone Book="%2"
+RasCustomDial synchronous request; Entry="%1"; %nPhone Book="%2"
+RasCustomDial synchronous request completed without errors.
+DNS look up of "%1" returned IP: %2
+Connecting to prerequisite connection "%1"
+Connection to prerequisite connection "%1" succeeded.
+No Internet access server detected.
+Detected Internet access server: "%1"
+System RasDial initiated.
+Establishing communication pipe %1 with the VPN Manager service.
+Closing communication pipe %1 with the VPN Manager service.
+Instructing the VPN Manager service to establish a secure tunnel with: %1:%2!hu!
+The VPN Manager service reports that a secure tunnel has been established.
+The VPN Manager service has requested server certificate validation.
+The VPN Manager service has requested the user be prompted for Internet access credentials.
+The VPN Manager service has requested the user be prompted for extended authentication credentials.
+RAS reports a VPN connected status.
+RAS reports a VPN disconnected status.
+Querying logon groups (realms) for appliance: %1
+Instructing the VPN Manager service to query %1's [%2] logon groups (realms)
+Logon group (realm) query of %1 returned %2!lu! groups.
+%1 complete. %nError 0x%2!08X!: %3
+Communication pipe %1 was established with the VPN Manager service.
+The operating system is  : %1
+VPN Manager request to perform end point control processing.
+Received client settings from the VPN Manager.
+Realm authentication information was successfully cached for realm: "%1"
+No logon server was detected on the appliance. [%1]
+VPN Manager request to inform the user that a software update is available.
+Downloading software update. [Version=%1] [URL=%2]
+Caching "%1" logon group/realm information. [Logon API version: %2!u!]
+Initiating %1
+Launching command script:%nScript: %1%nArguments: %2%nWorking Directory: %3
+Server certificate hash: [%1,INFO]
+Software update is still running. Ignoring tunnel shutdown notification.
+Software update is still running. Ignoring RAS notifications.
+Software update is still running. Ignoring RAS timeout.
+Backup server found. Trying to connect to [%1] server with [%2] realm.
+The HTTP proxy client has been initialized with proxy of %1, and VPN server of %2:%3!hu!.
+The HTTP proxy client will not be used.
+HTTP proxy client process, transition from %1 to %2.
+HTTP proxy client: Read HTTP response header - Available %1!lu!, Processed %2!lu!, HeaderSize %3!lu!.
+HTTP proxy client: Read response body, Needed %1!lu!, Available %2!lu!, Processed %3!lu!, Remaining %4!lu!.
+HTTP proxy client: Read response body chunked, HeaderSize %1!lu!, ChunkSize %2!lu!.
+HTTP proxy client: Read response body chunked, Available %1!lu!, Remaining %2!lu!.
+HTTP proxy client: Read response body chunked, TrailerSize %1!lu!.
+HTTP proxy client: Read response body close, Available %1!lu!, Processed %2!lu!
+The HTTP proxy client has restarted.
+The HTTP proxy client processed connect response, action %1, status %2!08X!
+HTTP proxy client: Parse reponse header, available %1!lu!, processed %2!lu!, headerSize %3!lu! 
+The HTTP proxy client ProxyAuthenticate, state %1, action %2, status %3!08X!.
+Negotiate authentication using method %1, credential state %2
+The HTTP proxy client is authenticating while not impersonating the current user.
+The HTTP proxy client processing ProxyNegotiate, state %1, action %2, status %3!08X.
+PPP Processing server establish state message %1.
+PPP Processing server authentication state message %1.
+PPP processing server NCP state message %1 for protocol %2.
+PPP processing state transition from %1 to %2.
+User inactivity has exceeded the VPN's defined user inactivity timeout, closing the VPN connection.
+The Microsoft Internet Connection Firewall has been diabled for the %1 connection.
+Failed to restarted the Dnscache servce, elapse time %1 secs, error %2!lu!.
+Begin EPC negotiation
+End EPC negotiation
+Receive RasIpcCmd TunnelEpcResponse
+SSL connection info: protocol %1, cipher %2 (%3!lu! bit), hash %4 (%5!lu! bit)
+Set http proxy for '%1' to url '%2'
+Clear http proxy for '%1'
+Send RasIpcCmd SoftwareUpdateRequest, Url '%1', Mandatory %2!lu!
+Send RasIpcCmd ClientSettings, Program '%1', Params '%2', Directory '%3'
+ClientConfig: AddressPool %1
+Receive RasIpcCmd SoftwareUpdateResponse
+Invalid proxy url of '%1' for '%2'
+ClientConfig: RunProgam %1
+ClientConfig: RunDirectory %1
+ClientConfig: RunParameters %1
+ClientConfig: HttpProxy %1
+Interface %1 selected for destination %2, source %3
+Interface %1, '%2', speed %3!lu!
+Discarding WINS request for %1, type %2!lu!
+Discarding DDNS update request
+Discarding SMB mailslot browse, opcode %1!lu!
+WINS request for %1, type %2!lu!
+WINS request for %1, type %2!lu!
+InternetSetOption failed for option %1, error %2!lu!
+(%1) Tunnel identifier for the server is "%2" (read status is %3!lu!, format status is %4!lu!)
+Machine identifier is "%1"
+Machine identifier for this tunnel instance is "%1"
+Activation called on existing connection.
+First activation request.
+First activation for this browser window.
+Last deactivation request, connection closed.
+Last deactivation request, connection failed to close. Error: 0x%1!08X!
+EPC system interrogator: Evaluation of %1 results: %2
+EPC micro-interrogator: Evaluation of [%1] results: %2
+Logon Id [%1]; Logon API version %2!u!
+EPC security zone classification resulted in zone: "%1"
+Performing EPC micro-interrogation.
+Performing EPC system interrogation.
+EPC security zone command recieved: [%1] Zone="%2"
+Retrieving initial authentication request from the logon server.%n["%2", %1]
+Sending authentication request to the logon server.%n["%2", %1]
+Authentication completed successfully.%n["%2", %1]%n[Community: %3]
+Authentication is incomplete.%n["%2", %1]
+EPC security zone command processed. [%1]%nError 0x%2!08X!: %3
+Performing EPC agent provisioning.
+Authentication using client certificate: [%1]
+Set SSPI state from %1 to %2.
+Launched ngdial to prompt the user to re-connect. [Process ID %1!d!]
+Performing system end point interrogation
+Error encountered detecting Internet access server. %nError 0x%1!08X!: %2
+Attempting to connect without an Internet access server.
+Unable to resolve IP address for proxy server: %1 %nError 0x%2!08X!: %3
+Attempting to connect without a security zone classification.
+Error occured launching connection script.%nApplication: %1%nArguments: %2%nWorking Directory: %3%nError 0x%4!08X!: %5
+Failed to cache realm authentication information for realm "%1" failed.%nError 0x%2!08X!: %3
+User has chosen not to install a software update.
+RasHangup ignored for process id %1!lu!.  The exclusive RASHangup feature is enabled for process id %2!lu!
+The exclusive RASHangup feature for "%1" is being enabled for process id %2!lu!
+Could not connect to server [%1]. Trying to connect to backup servers.
+Failed to add rule %1, Error 0x%2!08x!
+The software upgrade thread has failed to start.  The error is %1!u!.
+The software upgrade thread has failed to exit properly.  The error is %1!u!.
+The software upgrade event cannot be processed.  %1 can not be opened %2!u!.
+The software upgrade event cannot be processed for %1.  The error is %2!u!.
+A software update has been started or is in progress.
+Error occured launching command script.%nCommand line: %1%nWorking Directory: %2%nError 0x%3!08X!: %4
+Read WININET Internet connection settings for "%1"
+Your VPN session has expired. You may start a new session or close the VPN program.
+Authentication type not supported.
+RasCustomDialDlg completed with errors. %nError 0x%1!08X!: %2
+RasCustomDial completed with errors. %nError 0x%1!08X!: %2
+RasCustomDial completed with errors. %nError 0x%1!08X!: %2
+DNS look up of "%1" failed. %nError 0x%2!08X!: %3
+RAS has reported an error.%nError 0x%1!08X!: %2%nExtendedError=0x%3!08X!
+Connection to prerequisite connection "%1" failed. %nError 0x%2!08X!: %3
+RasDial failed. %nError 0x%1!08X!: %2
+The VPN Manager service reported an error. %nError 0x%1!08X!: %2
+Unreconized request received from the VPN Manager service.  Command=%1!lu!
+Exceeded maximum wait period for CONNECT/DISCONNECT status from RAS.  Attempts=%1!lu!
+Logon group (realm) query of %1 failed. %nError 0x%2!08X!: %3
+Aborting the open communication pipe %1 request to the VPN Manager service. %nError 0x%2!08X!: %3
+Exceeded maximum attempts (%1!u!) to open the communication pipe %2 with the VPN Manager service.
+Unable to open a communication pipe %1 with the VPN Manager service. %nError 0x%2!08X!: %3
+Error reading VPN Manager service command data.%nRead %1!lu! bytes but was expecting %2!lu! bytes of data for command %3!lu!. %nError 0x%4!08X!: %5
+Error writing VPN Manager service command data.%nWrote %1!lu! bytes but was expecting to write %2!lu! bytes of data for command %3!lu!. %nError 0x%4!08X!: %5
+Internal error: No overlapped I/O pointer. %nError 0x%1!08X!: %2
+Unable to establish tunnel while VPN application (AS32.exe) is running.
+Error encountered during end point control processing.  Unable to determine a security zone.%nError 0x%1!08X!: %2
+User has chosen not to install a REQUIRED software update.
+Software update download failed.%nURL=%1%nError 0x%2!08X!: %3
+Unable to launch software update reconnect utility. [%1]%nError 0x%2!08X!: %3
+An error has occurred while performing software update.%nError 0x%1!08X!: %2
+Software update notification was received but the user is not logged into the system.%nPostponing the user notification until after the user logs into the system.
+Could not connect to any backup servers. Aborting logon sequence.
+HTTP proxy client process error, no dispatch table function for the %1 state.
+HTTP proxy client process error, transition from %1 to %2 is not allowed.
+The HTTP proxy client has recieved a header that is to large.
+Could not find or create phonebook directory. Error: 0x%1!08X!
+Could not create Phone Book "%1"
+Could not create settings object to manage Phone Book "%1".
+Could not create settings for phonebook. Error: 0x%1!08X!
+Could not save settings for phonebook. Error: 0x%1!08X!
+Activation failed because there is no phone book.
+Activation failed because there is no AuthCredential or EndpointAddress.
+No logon ID was found.
+Error processing response from the logon server. [%1]%nStatus %2!i!; Error 0x%3!08X!: %4
+EPC micro-interrogator failed. [%1]%nError 0x%2!08X!: %3
+EPC system interrogation failed. [%1]%nError 0x%2!08X!: %3
+An I/O error occurred communicating with the logon server. [%1]%nError 0x%2!08X!: %3
+EPC security zone error. Unrecognized command: [%1] Zone="%2"
+Authentication Failed.%n["%2", %1]
+Error encountered with a logon server authentication request. [%1]%nError 0x%2!08X!: %3
+EPC system interrogation policy indicates the user is to be disconnected from the remote network.%nIssuing a disconnect for the "%1" network.
+Unable to connect to the logon server. [%1]%nError 0x%2!08X!: %3
+EPC agent provisioning failed. [%1]%nError 0x%2!08X!: %3
+Error occurred issuing command: %1%nError 0x%2!08X!: %3
+VPN connection monitor ended with an error. %nError 0x%1!08X!: %2
+System end point interrogation failed. %nError 0x%1!08X!: %2
+Unable to determine if the Microsoft Internet Connection Firewall is running because the phone book entry for this connection could not be determined.  
+Unable to disable the Microsoft Internet Connection Firewall for the %1 connection.  The error is %2!u!.
+Unable to establish the VPN connection.  The VPN server may be unreachable, or security parameters may not be configured properly for this connection.
+No VPN server has been configured.
+The Graphical User Interface (GUI) has been disabled, and a request to display, or prompt, for information was requested.%nThe -gui parameter enables the Graphical User Interface.
+Sofwate update required.%nYou must update the client software in order to access the remote network.
+A mandatory software update is required but the user is not logged into the operating system.%nAccess to the remote network is not allowed.
+No login group (realm) has been configured.
+Unable to establish the VPN connection.  The login group (realm) selected does not exist on the server.
+Unable to establish the VPN connection.  The server returned an error response and refused the connection.
+Aventail Connect Tunnel has detected new End point libraries. Please relogin to load the new libraries.
+The HTTP proxy client has failed to impersonate the current user. The error is 0x%4!08X!: %1.
+PPP Parsing error.  The buffer is to small.  Expected %1!lu!, Actual %2!lu!.
+PPP parsing error, An invalid protocol (%1!lu!)has been specified.
+PPP parsing error, An invalid control code (%1!lu!) has been specified.
+PPP parsing error, the message size is to large.  Available %1!lu!, Actual %2!lu!
+PPP processing server establish state, error need CreateConfigureNak.
+PPP Processing error.  Received invalid message received %1 while in %2.
+PPP state transition error, can't transit from %1, to %2.
+PPP parsing error, Invalid HDLC Header.
+Error parsing protocol header: buffer too small 
+Error parsing protocol header: version mismatch 
+Error parsing protocol header: invalid message type  
+Error parsing protocol header: message size exceeds buffer size  
+Error reassembling extended message: data received exceeds message size
+Error reassembling extended message: invalid message type
+Error reassembling extended message: can't find message ID 
+Error processing protocol message: invalid message for current state
+The requested authentication method is not supported by the selected login group
+An invalid authentication request was received from the server
+An invalid Team ID was received from the server
+The user's authentication credentials have been rejected by the server
+The server encountered an error communicating with the authentication system
+The client protocol version is not supported by the server
+An invalid or unsupported protocol message was sent to the server
+A server operation has exceeded it's timeout value
+The server was unable to allocate a client IP address
+The user is not authorization to access a requested resource
+The server encountered an error communicating with the authorization system
+General server system failure
+The client version is not supported by the server
+The server was unable to assign a client IP address due to a fatal IP address conflict
+The requested login group does not exist
+The user cache entry could not be created
+The server has request the client resume the tunnel
+No connection was specified.
+No logon ID was found.
+Access denied due to local system limitations.
+Access denied. The required system capabilities are not present, enabled, or current.
+An error was encountered decoding the data received from the Logon Server.
+An error was encountered encoding data to be sent to the Logon Server.
+Your certificate is invalid. Contact your helpdesk for more information.
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC80.CRT" version="8.0.50727.762" processorArchitecture="amd64" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
+Z0X03
+>0!0	
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+4j,*0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+140903000000Z
+170902235959Z0k1
+California1
+San Jose1
+SonicWall L.L.C.1
+SonicWall L.L.C.0
+:4X}
+z86(
+a4B{		
+$0"0 
+http://sf.symcb.com/sf.crl0f
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0
+K0I0
+http://sf.symcd.com0&
+http://sf.symcb.com/sf.crt0
+RA<,
+%GYE
+G) X
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+100208000000Z
+200207235959Z0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+&J@<
+z;T0S
+i0g0e
+0V0(
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+	image/gif0!0
+#http://logo.verisign.com/vslogo.gif04
+-0+0)
+#http://crl.verisign.com/pca3-g5.crl04
+(0&0$
+http://ocsp.verisign.com0
+VeriSignMPKI-2-80
+3130
+G8J-l
+B=e6
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA
+4j,*0	
+CLOp
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+150913122654Z0#
+i|ZR:
+Z4nl
