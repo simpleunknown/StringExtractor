@@ -1,0 +1,3 @@
+findstr /R /I "[\.A-Z\-_][\.A-Z\-_]*@[\.A-Z\-_][\.A-Z\-_]*"
+
+for email-id check

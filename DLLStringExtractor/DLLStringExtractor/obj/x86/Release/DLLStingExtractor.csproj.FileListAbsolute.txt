@@ -1,0 +1,7 @@
+C:\Users\310253271\Documents\Visual Studio 2015\Projects\DLLStringExtractor\DLLStringExtractor\DLLStringExtractor\bin\Release\DLLStringExtract.exe
+C:\Users\310253271\Documents\Visual Studio 2015\Projects\DLLStringExtractor\DLLStringExtractor\DLLStringExtractor\bin\Release\DLLStringExtract.pdb
+C:\Users\310253271\Documents\Visual Studio 2015\Projects\DLLStringExtractor\DLLStringExtractor\DLLStringExtractor\obj\x86\Release\FolderBrowserDialogSampleInCSharp.Form1.resources
+C:\Users\310253271\Documents\Visual Studio 2015\Projects\DLLStringExtractor\DLLStringExtractor\DLLStringExtractor\obj\x86\Release\DLLStringExtract.Properties.Resources.resources
+C:\Users\310253271\Documents\Visual Studio 2015\Projects\DLLStringExtractor\DLLStringExtractor\DLLStringExtractor\obj\x86\Release\DLLStingExtractor.csproj.GenerateResource.Cache
+C:\Users\310253271\Documents\Visual Studio 2015\Projects\DLLStringExtractor\DLLStringExtractor\DLLStringExtractor\obj\x86\Release\DLLStringExtract.exe
+C:\Users\310253271\Documents\Visual Studio 2015\Projects\DLLStringExtractor\DLLStringExtractor\DLLStringExtractor\obj\x86\Release\DLLStringExtract.pdb
