@@ -9,6 +9,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.Diagnostics;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace FolderBrowserDialogSampleInCSharp
 {
@@ -24,7 +25,7 @@ namespace FolderBrowserDialogSampleInCSharp
         FolderBrowserDialog folderBrowserDialog3save = new FolderBrowserDialog();
         System.Diagnostics.Process process = new System.Diagnostics.Process();
         System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
-        string strCmdText, DstrCmdText;
+        string strCmdText, EstrCmdText;
         string dict;
 
         //startInfo.FileName = "cmd.exe";
@@ -91,10 +92,13 @@ namespace FolderBrowserDialogSampleInCSharp
                         // code for searching using dict file 
                         ProcessStartInfo startinfo = new ProcessStartInfo();
                         Process cmd = new Process();
+                        
                         //this is forst repo
                         if (dict != null)
 
-                        { strCmdText = "/C" + " " + "strings" + " \"" + line + "\" " + "|" + " " + "findstr" + " " + "/G:" + "\"" + a + "\""; }
+                        { strCmdText = "/C" + " " + "strings" + " \"" + line + "\" " + "|" + " " + "findstr" + " " + "/G:" + "\"" + a + "\"";
+                            
+                        }
                         else if (dict == null)
                         { strCmdText = "/C" + " " + "strings" + " \"" + line + "\""; }
                         //strCmdText = "/C" +" "+"dir" +" " + fileDlg2.FileName.Replace(fileDlg2.SafeFileName,"") ;
@@ -112,15 +116,41 @@ namespace FolderBrowserDialogSampleInCSharp
                         string nonextsavefile= Path.GetFileNameWithoutExtension(line);
                         if (dict != null)
 
-                        { savefile += nonextsavefile+"_Dictonary" + ".txt";  }
-                        else if (dict == null)
-                        { savefile += nonextsavefile + ".txt"; }
-                        
+                        { savefile += nonextsavefile+"_Dictonary" + ".txt";
                             File.WriteAllText(savefile, output);
-                     
-                        
-                        
+                           
+                            //for email Address
+                            strCmdText = "/C" + " " + "strings" + " \"" + line + "\"";
+                            cmd.StartInfo.WorkingDirectory = @"C:\Windows\System32";
+                        cmd.StartInfo.FileName = "cmd.exe";
+                        cmd.StartInfo.Arguments = strCmdText.ToString();
+                        cmd.StartInfo.UseShellExecute = false;
+                        cmd.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
+                        cmd.StartInfo.RedirectStandardOutput = true;
+                        cmd.Start();
+                        cmd.WaitForExit(10);
+                        string eoutput = cmd.StandardOutput.ReadToEnd();
+                            //check email regex
 
+                            const string MatchEmailPattern =
+               @"[\.A-Z\-_][\.A-Z\-_]*@[\.A-Z\-_][\.A-Z\-_]*";
+                            Regex rx = new Regex(MatchEmailPattern, RegexOptions.Compiled | RegexOptions.IgnoreCase);
+                            // Find matches.
+                            MatchCollection matches = rx.Matches(eoutput);
+                            // Report the number of matches found.
+                            int noOfMatches = matches.Count;
+                            // Report on each match.
+                            foreach (Match match in matches)
+                            {
+                                File.AppendAllText(savefile, match.Value.ToString()+Environment.NewLine);
+                            }
+                        }
+                        else if (dict == null)
+                        { savefile += nonextsavefile + ".txt";
+                            File.WriteAllText(savefile, output);
+                        }
+                        
+ 
                     }
                 }
             }
@@ -157,10 +187,44 @@ namespace FolderBrowserDialogSampleInCSharp
                     string nonextsavefile = Path.GetFileNameWithoutExtension(filene.ToString());
                     if (dict != null)
 
-                    { savefile += nonextsavefile + "_Dictonary" + ".txt"; }
+                    { savefile += nonextsavefile + "_Dictonary" + ".txt";
+
+                        File.WriteAllText(savefile, output);
+                        //for email Address
+                        strCmdText = "/C" + " " + "strings" + " \"" + filene.FullName.ToString() + "\"";
+                        cmd.StartInfo.WorkingDirectory = @"C:\Windows\System32";
+                        cmd.StartInfo.FileName = "cmd.exe";
+                        cmd.StartInfo.Arguments = strCmdText.ToString();
+                        cmd.StartInfo.UseShellExecute = false;
+                        cmd.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
+                        cmd.StartInfo.RedirectStandardOutput = true;
+                        cmd.Start();
+                        cmd.WaitForExit(10);
+                        string eoutput = cmd.StandardOutput.ReadToEnd();
+
+                        //check email regex
+
+                        const string MatchEmailPattern =
+           @"[\.A-Z\-_][\.A-Z\-_]*@[\.A-Z\-_][\.A-Z\-_]*";
+                        Regex rx = new Regex(MatchEmailPattern, RegexOptions.Compiled | RegexOptions.IgnoreCase);
+                        // Find matches.
+                        MatchCollection matches = rx.Matches(eoutput);
+                        // Report the number of matches found.
+                        int noOfMatches = matches.Count;
+                        // Report on each match.
+                        foreach (Match match in matches)
+                        {
+                            File.AppendAllText(savefile, match.Value.ToString()+ Environment.NewLine);
+                        }
+                        
+
+
+                    }
                     else if (dict == null)
-                    { savefile += nonextsavefile + ".txt"; }
-                    File.WriteAllText(savefile, output);
+                    { savefile += nonextsavefile + ".txt";
+                        File.WriteAllText(savefile, output);
+                    }
+                    
 
 
                 }
